@@ -1,0 +1,16 @@
+part;dataset;method;cls;n_clusters;n_estimators;learning_rate;subsample;max_depth;colsample_bytree;nr_events;metric;score
+1;bpic2011;prefix_agg;xgb;1;500;0.06;0.8;3;0.6;20;mae;18637193.439171124
+1;bpic2011;prefix_agg;xgb;1;500;0.06;0.8;3;0.9;20;mae;18691907.53542781
+1;bpic2011;prefix_agg;xgb;1;500;0.06;0.8;5;0.6;20;mae;18479131.254261363
+1;bpic2011;prefix_agg;xgb;1;500;0.06;0.8;5;0.9;20;mae;18440651.42513369
+1;bpic2011;prefix_agg;xgb;1;500;0.06;0.8;7;0.6;20;mae;18641091.668449197
+1;bpic2011;prefix_agg;xgb;1;500;0.06;0.8;7;0.9;20;mae;18820364.161764707
+2;bpic2011;prefix_agg;xgb;1;500;0.06;0.8;3;0.6;20;mae;18173670.257596686
+2;bpic2011;prefix_agg;xgb;1;500;0.06;0.8;3;0.9;20;mae;17836650.25
+2;bpic2011;prefix_agg;xgb;1;500;0.06;0.8;5;0.6;20;mae;17958355.680248618
+2;bpic2011;prefix_agg;xgb;1;500;0.06;0.8;5;0.9;20;mae;17957430.55801105
+2;bpic2011;prefix_agg;xgb;1;500;0.06;0.8;7;0.6;20;mae;18312670.86325967
+2;bpic2011;prefix_agg;xgb;1;500;0.06;0.8;7;0.9;20;mae;17932341.08373619
+3;bpic2011;prefix_agg;xgb;1;500;0.06;0.8;3;0.6;20;mae;17687939.834797297
+3;bpic2011;prefix_agg;xgb;1;500;0.06;0.8;3;0.9;20;mae;17581855.18716216
+3;bpic2011;prefix_agg;xgb;1;500;0.06;0.8;5;0.6;20;mae;17411834.1410473

@@ -1,0 +1,5 @@
+part;dataset;method;cls;n_clusters;n_estimators;learning_rate;subsample;max_depth;colsample_bytree;nr_events;metric;score
+1;bpic2011;single_agg;xgb;1;500;0.06;0.8;3;0.6;1;mae;18516432.25411292
+1;bpic2011;single_agg;xgb;1;500;0.06;0.8;3;0.9;1;mae;18215995.194311596
+1;bpic2011;single_agg;xgb;1;500;0.06;0.8;5;0.6;1;mae;17900643.691132966
+1;bpic2011;single_agg;xgb;1;500;0.06;0.8;5;0.9;1;mae;17882380.47958741

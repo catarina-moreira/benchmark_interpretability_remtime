@@ -1,0 +1,859 @@
+,Diagnosis,Treatment code,Diagnosis code,case Specialism code,Diagnosis Treatment Combination ID,Age,Case ID,Activity,Producer code,Section,Specialism code,group,Number of executions,Complete Timestamp,duration,month,weekday,hour,remtime,elapsed,case_length
+337,maligniteit cervix,TC3201,DC822,SC7,DTC395310,52.0,2_3,AC411100,SIOG,Section 1,SC13,Internal Specialisms clinic,1.0,2005-01-03 09:00:00,0.0,1.0,0.0,9.0,69811200.0,0.0,3
+338,maligniteit cervix,TC3201,DC822,SC7,DTC395310,52.0,2_3,AC10113,SIOG,Section 1,SC13,Internal Specialisms clinic,1.0,2005-01-03 09:00:00,0.0,1.0,0.0,9.0,69811200.0,0.0,3
+1202,maligniteit ovarium | tuba,TC101,M16,SC7,other,71.0,9_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-01-08 09:00:00,0.0,1.0,5.0,9.0,8640000.0,0.0,3
+1426,maligniteit cervix,TC113,M13,SC61,DTC229311,83.0,10_3,339486E,SGEC,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-01-10 09:00:00,0.0,1.0,0.0,9.0,12873600.0,0.0,3
+1427,maligniteit cervix,TC113,M13,SC61,DTC229311,83.0,10_3,AC370401,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-01-10 09:00:00,0.0,1.0,0.0,9.0,12873600.0,0.0,3
+1428,maligniteit cervix,TC113,M13,SC61,DTC229311,83.0,10_3,370401C,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-01-10 09:00:00,0.0,1.0,0.0,9.0,12873600.0,0.0,3
+1543,maligniteit ovarium | tuba,TC603,M16,SC7,DTC154699,72.0,11_3,330001B,PLAB,Section 4,SC20,General Lab Clinical Chemistry,1.0,2005-01-10 09:00:00,0.0,1.0,0.0,9.0,2764800.0,0.0,3
+1544,maligniteit ovarium | tuba,TC603,M16,SC7,DTC154699,72.0,11_3,AC355111,LVPT,Section 4,SC88,Pathology,1.0,2005-01-10 09:00:00,0.0,1.0,0.0,9.0,2764800.0,0.0,3
+1545,maligniteit ovarium | tuba,TC603,M16,SC7,DTC154699,72.0,11_3,AC359999,LVPT,Section 4,SC88,Pathology,1.0,2005-01-10 09:00:00,0.0,1.0,0.0,9.0,2764800.0,0.0,3
+2531,Maligne neoplasma cervix uteri,TC32,DC106,SC13,DTC165717,41.0,12_3,AC356134,LVPT,Section 4,SC88,Pathology,1.0,2005-01-11 09:00:00,0.0,1.0,1.0,9.0,98668800.0,0.0,3
+2532,Maligne neoplasma cervix uteri,TC32,DC106,SC13,DTC165717,41.0,12_3,AC370402,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-01-11 09:00:00,0.0,1.0,1.0,9.0,98668800.0,0.0,3
+2533,Maligne neoplasma cervix uteri,TC32,DC106,SC13,DTC165717,41.0,12_3,AC370403,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-01-11 09:00:00,0.0,1.0,1.0,9.0,98668800.0,0.0,3
+2976,maligniteit vulva,TC813,M11,SC7,DTC156193,84.0,14_3,AC355427,LVPT,Section 4,SC88,Pathology,1.0,2005-01-12 09:00:00,0.0,1.0,2.0,9.0,90115200.0,0.0,3
+2977,maligniteit vulva,TC813,M11,SC7,DTC156193,84.0,14_3,370488E,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-01-12 09:00:00,0.0,1.0,2.0,9.0,90115200.0,0.0,3
+2978,maligniteit vulva,TC813,M11,SC7,DTC156193,84.0,14_3,AC356134,LVPT,Section 4,SC88,Pathology,1.0,2005-01-12 09:00:00,0.0,1.0,2.0,9.0,90115200.0,0.0,3
+3017,maligniteit vulva,TC101,M11,SC7,DTC55501,55.0,15_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-01-12 09:00:00,0.0,1.0,2.0,9.0,97977600.0,0.0,3
+3021,Gynaecologische tumoren,TC61,DC106,SC7,other,79.0,16_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-01-12 09:00:00,0.0,1.0,2.0,9.0,52099200.0,0.0,3
+3022,Gynaecologische tumoren,TC61,DC106,SC7,other,79.0,16_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-01-12 09:00:00,0.0,1.0,2.0,9.0,52099200.0,0.0,3
+3139,maligniteit ovarium | tuba,TC803,M16,SC7,DTC156083,53.0,17_3,AC370423,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-01-12 09:00:00,0.0,1.0,2.0,9.0,1987200.0,0.0,3
+3140,maligniteit ovarium | tuba,TC803,M16,SC7,DTC156083,53.0,17_3,AC370419,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-01-12 09:00:00,0.0,1.0,2.0,9.0,1987200.0,0.0,3
+3141,maligniteit ovarium | tuba,TC803,M16,SC7,DTC156083,53.0,17_3,AC370403,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-01-12 09:00:00,0.0,1.0,2.0,9.0,1987200.0,0.0,3
+3267,maligniteit ovarium | tuba,TC803,M16,SC7,DTC156150,73.0,18_3,330001B,PLAB,Section 4,SC20,General Lab Clinical Chemistry,1.0,2005-01-12 09:00:00,0.0,1.0,2.0,9.0,2073600.0,0.0,3
+3268,maligniteit ovarium | tuba,TC803,M16,SC7,DTC156150,73.0,18_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-01-12 09:00:00,0.0,1.0,2.0,9.0,2073600.0,0.0,3
+3269,maligniteit ovarium | tuba,TC803,M16,SC7,DTC156150,73.0,18_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-01-12 09:00:00,0.0,1.0,2.0,9.0,2073600.0,0.0,3
+1200,maligniteit ovarium | tuba,TC101,M16,SC7,other,71.0,9_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-01-13 09:00:00,0.0,1.0,3.0,9.0,8208000.0,432000.0,3
+1201,maligniteit ovarium | tuba,TC101,M16,SC7,other,71.0,9_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-01-13 09:00:00,7200.0,1.0,3.0,9.0,8208000.0,432000.0,3
+3410,maligniteit cervix,TC113,DC822,SC61,DTC177135,86.0,20_3,370407.0,HAEM,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-01-13 09:00:00,0.0,1.0,3.0,9.0,39052800.0,0.0,3
+3411,maligniteit cervix,TC113,DC822,SC61,DTC177135,86.0,20_3,370488E,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-01-13 09:00:00,0.0,1.0,3.0,9.0,39052800.0,0.0,3
+3412,maligniteit cervix,TC113,DC822,SC61,DTC177135,86.0,20_3,370443S,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-01-13 09:00:00,0.0,1.0,3.0,9.0,39052800.0,0.0,3
+4788,maligniteit cervix,TC101,M13,SC7,DTC161617,51.0,25_3,AC355201,LVPT,Section 4,SC88,Pathology,1.0,2005-01-19 09:00:00,0.0,1.0,2.0,9.0,37324800.0,0.0,3
+4789,maligniteit cervix,TC101,M13,SC7,DTC161617,51.0,25_3,AC411100,SGAL,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-01-19 09:00:00,0.0,1.0,2.0,9.0,37324800.0,0.0,3
+4790,maligniteit cervix,TC101,M13,SC7,DTC161617,51.0,25_3,AC419100,SGAL,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-01-19 09:00:00,0.0,1.0,2.0,9.0,37324800.0,0.0,3
+4907,maligniteit ovarium | tuba,TC101,M16,SC7,other,63.0,28_3,AC411100,SGAL,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-01-19 09:00:00,0.0,1.0,2.0,9.0,39398400.0,0.0,3
+4908,maligniteit ovarium | tuba,TC101,M16,SC7,other,63.0,28_3,AC419100,SGAL,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-01-19 09:00:00,0.0,1.0,2.0,9.0,39398400.0,0.0,3
+5045,maligniteit ovarium | tuba,TC101,M16,SC7,DTC238155,71.0,29_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-01-21 09:00:00,0.0,1.0,4.0,9.0,93571200.0,0.0,3
+335,maligniteit cervix,TC3201,DC822,SC7,DTC395310,52.0,2_3,AC419100,SIOG,Section 1,SC13,Internal Specialisms clinic,1.0,2005-01-24 09:00:00,0.0,1.0,0.0,9.0,67996800.0,1814400.0,3
+5811,maligniteit myometrium,TC101,M15,SC7,DTC270518,36.0,34_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-01-29 09:00:00,0.0,1.0,5.0,9.0,98841600.0,0.0,3
+6346,maligniteit ovarium | tuba,TC101,M16,SC7,DTC169839,59.0,38_3,AC372417,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-02-02 09:00:00,0.0,2.0,2.0,9.0,97286400.0,0.0,3
+6347,maligniteit ovarium | tuba,TC101,M16,SC7,DTC169839,59.0,38_3,370488E,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-02-02 09:00:00,0.0,2.0,2.0,9.0,97286400.0,0.0,3
+6348,maligniteit ovarium | tuba,TC101,M16,SC7,DTC169839,59.0,38_3,370488G,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-02-02 09:00:00,0.0,2.0,2.0,9.0,97286400.0,0.0,3
+6652,maligniteit vulva,TC101,M11,SC7,DTC179034,77.0,41_3,AC379999,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-02-03 09:00:00,0.0,2.0,3.0,9.0,93139200.0,0.0,3
+6653,maligniteit vulva,TC101,M11,SC7,DTC179034,77.0,41_3,AC370604,BLOB,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-02-03 09:00:00,0.0,2.0,3.0,9.0,93139200.0,0.0,3
+6654,maligniteit vulva,TC101,M11,SC7,DTC179034,77.0,41_3,AC370606,BLOB,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-02-03 09:00:00,0.0,2.0,3.0,9.0,93139200.0,0.0,3
+6664,maligniteit cervix,TC101,M13,SC7,other,32.0,42_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-02-03 09:00:00,0.0,2.0,3.0,9.0,25315200.0,0.0,3
+6852,maligniteit endometrium,TC101,M14,SC7,DTC247860,65.0,44_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-02-04 09:00:00,0.0,2.0,4.0,9.0,68169600.0,0.0,3
+7483,maligniteit ovarium | tuba,TC803,M16,SC7,DTC172686,65.0,48_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-02-07 09:00:00,0.0,2.0,0.0,9.0,10454400.0,0.0,3
+7484,maligniteit ovarium | tuba,TC803,M16,SC7,DTC172686,65.0,48_3,370488J,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-02-07 09:00:00,0.0,2.0,0.0,9.0,10454400.0,0.0,3
+7485,maligniteit ovarium | tuba,TC803,M16,SC7,DTC172686,65.0,48_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-02-07 09:00:00,0.0,2.0,0.0,9.0,10454400.0,0.0,3
+8134,maligniteit cervix,TC803,M13,SC7,DTC175314,41.0,58_3,AC370401,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-02-10 09:00:00,0.0,2.0,3.0,9.0,6566400.0,0.0,3
+8135,maligniteit cervix,TC803,M13,SC7,DTC175314,41.0,58_3,370488J,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-02-10 09:00:00,0.0,2.0,3.0,9.0,6566400.0,0.0,3
+8136,maligniteit cervix,TC803,M13,SC7,DTC175314,41.0,58_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-02-10 09:00:00,0.0,2.0,3.0,9.0,6566400.0,0.0,3
+8172,maligniteit ovarium | tuba,TC603,M16,SC7,DTC140498,48.0,59_3,AC40014,H5ZU,Section 2,SC7,Nursing ward,1.0,2005-02-10 09:00:00,0.0,2.0,3.0,9.0,4233600.0,0.0,3
+8173,maligniteit ovarium | tuba,TC603,M16,SC7,DTC140498,48.0,59_3,AC379999,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-02-10 09:00:00,0.0,2.0,3.0,9.0,4233600.0,0.0,3
+8174,maligniteit ovarium | tuba,TC603,M16,SC7,DTC140498,48.0,59_3,AC613000,H5ZU,Section 2,SC7,Nursing ward,1.0,2005-02-10 09:00:00,0.0,2.0,3.0,9.0,4233600.0,0.0,3
+8200,maligniteit vulva,TC101,M11,SC7,other,84.0,61_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-02-12 09:00:00,0.0,2.0,5.0,9.0,26956800.0,0.0,3
+8367,maligniteit cervix,TC9101,DC822,SC13,DTC177222,39.0,62_3,AC419100,SIOG,Section 1,SC13,Internal Specialisms clinic,1.0,2005-02-14 09:00:00,0.0,2.0,0.0,9.0,31017600.0,0.0,3
+8368,maligniteit cervix,TC9101,DC822,SC13,DTC177222,39.0,62_3,AC410100,SIOG,Section 1,SC13,Internal Specialisms clinic,1.0,2005-02-14 09:00:00,0.0,2.0,0.0,9.0,31017600.0,0.0,3
+8369,maligniteit cervix,TC9101,DC822,SC13,DTC177222,39.0,62_3,AC10113,SIOG,Section 1,SC13,Internal Specialisms clinic,1.0,2005-02-14 09:00:00,0.0,2.0,0.0,9.0,31017600.0,0.0,3
+9148,maligniteit myometrium,TC103,M15,SC7,DTC177951,56.0,64_3,370407.0,HAEM,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-02-15 09:00:00,0.0,2.0,1.0,9.0,1296000.0,0.0,3
+9149,maligniteit myometrium,TC103,M15,SC7,DTC177951,56.0,64_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-02-15 09:00:00,0.0,2.0,1.0,9.0,1296000.0,0.0,3
+9150,maligniteit myometrium,TC103,M15,SC7,DTC177951,56.0,64_3,AC370401,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-02-15 09:00:00,0.0,2.0,1.0,9.0,1296000.0,0.0,3
+11123,maligniteit vulva,TC101,M11,SC7,DTC217629,73.0,73_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-02-18 09:00:00,0.0,2.0,4.0,9.0,94176000.0,0.0,3
+11131,Gynaecologische tumoren,TC61,DC106,SC7,other,43.0,74_3,AC10307,SGEH,Section 2,SC7,Nursing ward,1.0,2005-02-18 09:00:00,0.0,2.0,4.0,9.0,51321600.0,0.0,3
+3016,maligniteit vulva,TC101,M11,SC7,DTC55501,55.0,15_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-02-21 09:00:00,57600.0,2.0,0.0,9.0,94521600.0,3456000.0,3
+11996,Recidieven (pre)maligniteit cervix uteri (ov),TC103,M13,SC13,DTC392290,45.0,76_3,AC411100,SRTH,Section 5,SC61,Radiotherapy,1.0,2005-02-21 09:00:00,0.0,2.0,0.0,9.0,92966400.0,0.0,3
+13157,maligniteit ovarium,TC803,DC821,SC13,DTC215099,71.0,77_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-02-21 09:00:00,0.0,2.0,0.0,9.0,96163200.0,0.0,3
+13158,maligniteit ovarium,TC803,DC821,SC13,DTC215099,71.0,77_3,370488G,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-02-21 09:00:00,0.0,2.0,0.0,9.0,96163200.0,0.0,3
+13159,maligniteit ovarium,TC803,DC821,SC13,DTC215099,71.0,77_3,AC355201,LVPT,Section 4,SC88,Pathology,1.0,2005-02-21 09:00:00,0.0,2.0,0.0,9.0,96163200.0,0.0,3
+13580,maligniteit cervix,TC101,M13,SC7,other,48.0,82_3,AC355201,LVPT,Section 4,SC88,Pathology,1.0,2005-02-24 09:00:00,0.0,2.0,3.0,9.0,41731200.0,0.0,3
+13581,maligniteit cervix,TC101,M13,SC7,other,48.0,82_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-02-24 09:00:00,0.0,2.0,3.0,9.0,41731200.0,0.0,3
+13582,maligniteit cervix,TC101,M13,SC7,other,48.0,82_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-02-24 09:00:00,0.0,2.0,3.0,9.0,41731200.0,0.0,3
+13597,maligniteit ovarium | tuba,TC101,M16,SC7,other,57.0,84_3,AC355201,LVPT,Section 4,SC88,Pathology,1.0,2005-02-24 09:00:00,0.0,2.0,3.0,9.0,64713600.0,0.0,3
+13598,maligniteit ovarium | tuba,TC101,M16,SC7,other,57.0,84_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-02-24 09:00:00,0.0,2.0,3.0,9.0,64713600.0,0.0,3
+13599,maligniteit ovarium | tuba,TC101,M16,SC7,other,57.0,84_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-02-24 09:00:00,0.0,2.0,3.0,9.0,64713600.0,0.0,3
+13610,maligniteit cervix,TC101,M13,SC7,other,44.0,86_3,AC10107,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-02-28 09:00:00,0.0,2.0,0.0,9.0,0.0,0.0,3
+13611,maligniteit cervix,TC101,M13,SC7,other,44.0,86_3,AC410100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-02-28 09:00:00,0.0,2.0,0.0,9.0,0.0,0.0,3
+13612,maligniteit cervix,TC101,M13,SC7,other,44.0,86_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-02-28 09:00:00,0.0,2.0,0.0,9.0,0.0,0.0,3
+14657,maligniteit cervix,TC103,M13,SC61,DTC201794,43.0,88_3,AC410100,SIOG,Section 1,SC13,Internal Specialisms clinic,1.0,2005-02-28 09:00:00,0.0,2.0,0.0,9.0,15379200.0,0.0,3
+14658,maligniteit cervix,TC103,M13,SC61,DTC201794,43.0,88_3,AC10113,SIOG,Section 1,SC13,Internal Specialisms clinic,1.0,2005-02-28 09:00:00,0.0,2.0,0.0,9.0,15379200.0,0.0,3
+14748,maligniteit ovarium | tuba,TC803,M16,SC7,DTC187204,58.0,89_3,370488G,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-03-02 09:00:00,0.0,3.0,2.0,9.0,29030400.0,0.0,3
+14749,maligniteit ovarium | tuba,TC803,M16,SC7,DTC187204,58.0,89_3,370407.0,HAEM,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-03-02 09:00:00,0.0,3.0,2.0,9.0,29030400.0,0.0,3
+14750,maligniteit ovarium | tuba,TC803,M16,SC7,DTC187204,58.0,89_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-03-02 09:00:00,0.0,3.0,2.0,9.0,29030400.0,0.0,3
+15201,maligniteit ovarium | tuba,TC803,DC821,SC7,DTC187241,63.0,90_3,339486E,SGEC,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-03-02 09:00:00,0.0,3.0,2.0,9.0,95472000.0,0.0,3
+15202,maligniteit ovarium | tuba,TC803,DC821,SC7,DTC187241,63.0,90_3,370401C,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-03-02 09:00:00,0.0,3.0,2.0,9.0,95472000.0,0.0,3
+15203,maligniteit ovarium | tuba,TC803,DC821,SC7,DTC187241,63.0,90_3,370488E,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-03-02 09:00:00,0.0,3.0,2.0,9.0,95472000.0,0.0,3
+16195,maligniteit cervix,TC61,DC822,SC61,DTC232764,71.0,97_3,AC370403,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-03-07 09:00:00,0.0,3.0,0.0,9.0,94435200.0,0.0,3
+16196,maligniteit cervix,TC61,DC822,SC61,DTC232764,71.0,97_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-03-07 09:00:00,0.0,3.0,0.0,9.0,94435200.0,0.0,3
+16197,maligniteit cervix,TC61,DC822,SC61,DTC232764,71.0,97_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-03-07 09:00:00,0.0,3.0,0.0,9.0,94435200.0,0.0,3
+17067,Maligne neoplasma ovarium,TC3101,DC821,SC7,DTC207533,69.0,100_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-03-07 09:00:00,0.0,3.0,0.0,9.0,95126400.0,0.0,3
+14656,maligniteit cervix,TC103,M13,SC61,DTC201794,43.0,88_3,AC410100,SRTH,Section 5,SC61,Radiotherapy,1.0,2005-03-08 09:00:00,11520.0,3.0,1.0,9.0,14688000.0,691200.0,3
+17086,maligniteit cervix,TC101,M13,SC7,DTC222842,52.0,101_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-03-08 09:00:00,0.0,3.0,1.0,9.0,92707200.0,0.0,3
+17593,maligniteit cervix,TC101,M13,SC7,other,51.0,108_3,AC415100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-03-10 09:00:00,0.0,3.0,3.0,9.0,63504000.0,0.0,3
+17613,maligniteit ovarium | tuba,TC101,M16,SC7,DTC203747,47.0,109_3,376400.0,CHE1,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-03-11 09:00:00,0.0,3.0,4.0,9.0,65232000.0,0.0,3
+17614,maligniteit ovarium | tuba,TC101,M16,SC7,DTC203747,47.0,109_3,AC379999,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-03-11 09:00:00,0.0,3.0,4.0,9.0,65232000.0,0.0,3
+17615,maligniteit ovarium | tuba,TC101,M16,SC7,DTC203747,47.0,109_3,378619A,CHE1,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-03-11 09:00:00,0.0,3.0,4.0,9.0,65232000.0,0.0,3
+17736,maligniteit vulva,TC101,M11,SC7,other,77.0,111_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-03-14 09:00:00,0.0,3.0,0.0,9.0,49593600.0,0.0,3
+17737,maligniteit vulva,TC101,M11,SC7,other,77.0,111_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-03-14 09:00:00,0.0,3.0,0.0,9.0,49593600.0,0.0,3
+17886,Gynaecologische tumoren,TC61,DC106,SC7,DTC309350,45.0,113_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-03-15 09:00:00,0.0,3.0,1.0,9.0,59529600.0,0.0,3
+19593,Maligne neoplasma adnexa uteri,TC101,DC839,SC13,DTC464231,57.0,119_3,AC415100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-03-16 09:00:00,0.0,3.0,2.0,9.0,94176000.0,0.0,3
+19686,maligniteit vulva,TC101,M11,SC7,other,91.0,121_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-03-17 09:00:00,0.0,3.0,3.0,9.0,23500800.0,0.0,3
+19960,Gynaecologische tumoren,TC12,DC106,SC61,DTC390635,62.0,124_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-03-17 09:00:00,0.0,3.0,3.0,9.0,57456000.0,0.0,3
+19961,Gynaecologische tumoren,TC12,DC106,SC61,DTC390635,62.0,124_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-03-17 09:00:00,0.0,3.0,3.0,9.0,57456000.0,0.0,3
+20283,maligniteit cervix,TC103,DC822,SC61,DTC224693,58.0,127_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-03-23 09:00:00,0.0,3.0,2.0,9.0,55036800.0,0.0,3
+20284,maligniteit cervix,TC103,DC822,SC61,DTC224693,58.0,127_3,370711S,CITH,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-03-23 09:00:00,0.0,3.0,2.0,9.0,55036800.0,0.0,3
+20285,maligniteit cervix,TC103,DC822,SC61,DTC224693,58.0,127_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-03-23 09:00:00,0.0,3.0,2.0,9.0,55036800.0,0.0,3
+20371,Gynaecologische tumoren,TC61,DC106,SC7,DTC310159,47.0,129_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-03-23 09:00:00,0.0,3.0,2.0,9.0,93571200.0,0.0,3
+21802,maligniteit vulva,TC101,M11,SC7,DTC200214,70.0,133_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-03-24 09:00:00,0.0,3.0,3.0,9.0,84067200.0,0.0,3
+21803,maligniteit vulva,TC101,M11,SC7,DTC200214,70.0,133_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-03-24 09:00:00,0.0,3.0,3.0,9.0,84067200.0,0.0,3
+17592,maligniteit cervix,TC101,M13,SC7,other,51.0,108_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-03-27 09:00:00,24480.0,3.0,6.0,9.0,62035200.0,1468800.0,3
+22746,Maligne neoplasma cervix uteri,TC103,DC822,SC61,DTC402035,39.0,139_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-03-27 09:00:00,0.0,3.0,6.0,9.0,70416000.0,0.0,3
+22825,maligniteit endometrium,TC613,M14,SC7,DTC246929,51.0,140_3,AC355201,LVPT,Section 4,SC88,Pathology,1.0,2005-03-29 09:00:00,0.0,3.0,1.0,9.0,6480000.0,0.0,3
+22826,maligniteit endometrium,TC613,M14,SC7,DTC246929,51.0,140_3,other,SLVE,Section 4,SC86,Special lab radiology,1.0,2005-03-29 09:00:00,0.0,3.0,1.0,9.0,6480000.0,0.0,3
+22827,maligniteit endometrium,TC613,M14,SC7,DTC246929,51.0,140_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-03-29 09:00:00,0.0,3.0,1.0,9.0,6480000.0,0.0,3
+22841,maligniteit vulva,TC101,M11,SC7,other,73.0,141_3,AC10107,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-03-30 09:00:00,0.0,3.0,2.0,9.0,32054400.0,0.0,3
+22842,maligniteit vulva,TC101,M11,SC7,other,73.0,141_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-03-30 09:00:00,0.0,3.0,2.0,9.0,32054400.0,0.0,3
+22843,maligniteit vulva,TC101,M11,SC7,other,73.0,141_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-03-30 09:00:00,0.0,3.0,2.0,9.0,32054400.0,0.0,3
+23251,maligniteit ovarium | tuba,TC101,M16,SC7,DTC203111,63.0,150_3,339486E,SGEC,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-03-30 09:00:00,0.0,3.0,2.0,9.0,89424000.0,0.0,3
+23252,maligniteit ovarium | tuba,TC101,M16,SC7,DTC203111,63.0,150_3,370828A,SLVE,Section 4,SC86,Special lab radiology,1.0,2005-03-30 09:00:00,0.0,3.0,2.0,9.0,89424000.0,0.0,3
+23253,maligniteit ovarium | tuba,TC101,M16,SC7,DTC203111,63.0,150_3,AC355201,LVPT,Section 4,SC88,Pathology,1.0,2005-03-30 09:00:00,0.0,3.0,2.0,9.0,89424000.0,0.0,3
+19959,Gynaecologische tumoren,TC12,DC106,SC61,DTC390635,62.0,124_3,AC415100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-03-31 09:00:00,20160.0,3.0,3.0,9.0,56246400.0,1209600.0,3
+23471,Gynaecologische tumoren,TC61,DC106,SC7,DTC205671,46.0,158_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-04-04 09:00:00,0.0,4.0,0.0,9.0,50803200.0,0.0,3
+23472,Gynaecologische tumoren,TC61,DC106,SC7,DTC205671,46.0,158_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-04-04 09:00:00,0.0,4.0,0.0,9.0,50803200.0,0.0,3
+17066,Maligne neoplasma ovarium,TC3101,DC821,SC7,DTC207533,69.0,100_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-04-06 09:00:00,43200.0,4.0,2.0,9.0,92534400.0,2592000.0,3
+23555,maligniteit cervix,TC101,M13,SC7,other,39.0,162_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-04-06 09:00:00,0.0,4.0,2.0,9.0,64108800.0,0.0,3
+23556,maligniteit cervix,TC101,M13,SC7,other,39.0,162_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-04-06 09:00:00,0.0,4.0,2.0,9.0,64108800.0,0.0,3
+23692,maligniteit vulva,TC101,M11,SC7,other,67.0,164_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-04-07 09:00:00,0.0,4.0,3.0,9.0,89424000.0,0.0,3
+23838,Gynaecologische tumoren,TC61,DC106,SC7,DTC208337,46.0,167_3,376480A,LAKB,Section 4,SC86,Pharmacy Laboratory,1.0,2005-04-07 09:00:00,0.0,4.0,3.0,9.0,79574400.0,0.0,3
+23839,Gynaecologische tumoren,TC61,DC106,SC7,DTC208337,46.0,167_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-04-07 09:00:00,0.0,4.0,3.0,9.0,79574400.0,0.0,3
+23840,Gynaecologische tumoren,TC61,DC106,SC7,DTC208337,46.0,167_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-04-07 09:00:00,0.0,4.0,3.0,9.0,79574400.0,0.0,3
+24238,Gynaecologische tumoren,TC61,DC106,SC7,other,71.0,174_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-04-13 09:00:00,0.0,4.0,2.0,9.0,48470400.0,0.0,3
+24239,Gynaecologische tumoren,TC61,DC106,SC7,other,71.0,174_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-04-13 09:00:00,0.0,4.0,2.0,9.0,48470400.0,0.0,3
+24332,maligniteit cervix,TC813,M13,SC7,DTC212333,45.0,175_3,AC370402,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-04-13 09:00:00,0.0,4.0,2.0,9.0,8467200.0,0.0,3
+24333,maligniteit cervix,TC813,M13,SC7,DTC212333,45.0,175_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-04-13 09:00:00,0.0,4.0,2.0,9.0,8467200.0,0.0,3
+24334,maligniteit cervix,TC813,M13,SC7,DTC212333,45.0,175_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-04-13 09:00:00,0.0,4.0,2.0,9.0,8467200.0,0.0,3
+24521,maligniteit ovarium | tuba,TC101,M16,SC7,DTC229523,60.0,181_3,AC10307,SGAL,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-04-17 09:00:00,0.0,4.0,6.0,9.0,91065600.0,0.0,3
+24556,maligniteit cervix,TC101,M13,SC7,other,54.0,184_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-04-19 09:00:00,0.0,4.0,1.0,9.0,11577600.0,0.0,3
+24606,maligniteit cervix,TC61,DC106,SC61,other,85.0,187_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-04-20 09:00:00,0.0,4.0,2.0,9.0,79315200.0,0.0,3
+24607,maligniteit cervix,TC61,DC106,SC61,other,85.0,187_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-04-20 09:00:00,0.0,4.0,2.0,9.0,79315200.0,0.0,3
+11121,maligniteit vulva,TC101,M11,SC7,DTC217629,73.0,73_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-04-21 09:00:00,0.0,4.0,3.0,9.0,88819200.0,5356800.0,3
+11122,maligniteit vulva,TC101,M11,SC7,DTC217629,73.0,73_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-04-21 09:00:00,89280.0,4.0,3.0,9.0,88819200.0,5356800.0,3
+24630,maligniteit ovarium | tuba,TC101,M16,SC7,DTC217675,69.0,189_3,AC379999,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-04-21 09:00:00,0.0,4.0,3.0,9.0,85881600.0,0.0,3
+24631,maligniteit ovarium | tuba,TC101,M16,SC7,DTC217675,69.0,189_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-04-21 09:00:00,0.0,4.0,3.0,9.0,85881600.0,0.0,3
+24632,maligniteit ovarium | tuba,TC101,M16,SC7,DTC217675,69.0,189_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-04-21 09:00:00,0.0,4.0,3.0,9.0,85881600.0,0.0,3
+22743,Maligne neoplasma cervix uteri,TC103,DC822,SC61,DTC402035,39.0,139_3,AC356134,LVPT,Section 4,SC88,Pathology,1.0,2005-04-25 09:00:00,0.0,4.0,0.0,9.0,67910400.0,2505600.0,3
+22744,Maligne neoplasma cervix uteri,TC103,DC822,SC61,DTC402035,39.0,139_3,AC350503,LVPT,Section 4,SC88,Pathology,1.0,2005-04-25 09:00:00,0.0,4.0,0.0,9.0,67910400.0,2505600.0,3
+25304,Plav.celcarc. vulva: st I,TC101,M11,SC7,DTC220052,79.0,192_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-04-25 09:00:00,0.0,4.0,0.0,9.0,83462400.0,0.0,3
+26045,maligniteit cervix,TC813,DC822,SC61,DTC264024,43.0,194_3,AC370403,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-04-25 09:00:00,0.0,4.0,0.0,9.0,38275200.0,0.0,3
+26046,maligniteit cervix,TC813,DC822,SC61,DTC264024,43.0,194_3,AC370423,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-04-25 09:00:00,0.0,4.0,0.0,9.0,38275200.0,0.0,3
+26047,maligniteit cervix,TC813,DC822,SC61,DTC264024,43.0,194_3,AC370604,BLOB,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-04-25 09:00:00,0.0,4.0,0.0,9.0,38275200.0,0.0,3
+26363,maligniteit ovarium | tuba,TC3101,DC822,SC13,DTC293450,59.0,195_3,370701S,CRPO,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-04-25 09:00:00,0.0,4.0,0.0,9.0,30326400.0,0.0,3
+26364,maligniteit ovarium | tuba,TC3101,DC822,SC13,DTC293450,59.0,195_3,370419S,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-04-25 09:00:00,0.0,4.0,0.0,9.0,30326400.0,0.0,3
+26365,maligniteit ovarium | tuba,TC3101,DC822,SC13,DTC293450,59.0,195_3,370442S,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-04-25 09:00:00,0.0,4.0,0.0,9.0,30326400.0,0.0,3
+3015,maligniteit vulva,TC101,M11,SC7,DTC55501,55.0,15_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-04-27 09:00:00,93600.0,4.0,2.0,9.0,88905600.0,9072000.0,3
+6851,maligniteit endometrium,TC101,M14,SC7,DTC247860,65.0,44_3,AC415100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-04-27 09:00:00,118080.0,4.0,2.0,9.0,61084800.0,7084800.0,3
+19592,Maligne neoplasma adnexa uteri,TC101,DC839,SC13,DTC464231,57.0,119_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-04-27 09:00:00,60480.0,4.0,2.0,9.0,90547200.0,3628800.0,3
+26554,maligniteit cervix,TC103,M13,SC7,DTC222012,58.0,198_3,AC370402,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-04-27 09:00:00,0.0,4.0,2.0,9.0,7862400.0,0.0,3
+26555,maligniteit cervix,TC103,M13,SC7,DTC222012,58.0,198_3,AC370443,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-04-27 09:00:00,0.0,4.0,2.0,9.0,7862400.0,0.0,3
+26556,maligniteit cervix,TC103,M13,SC7,DTC222012,58.0,198_3,AC370442,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-04-27 09:00:00,0.0,4.0,2.0,9.0,7862400.0,0.0,3
+26990,maligniteit cervix,TC61,DC106,SC61,DTC392371,26.0,199_3,AC411100,SRTH,Section 5,SC61,Radiotherapy,1.0,2005-04-27 09:00:00,0.0,4.0,2.0,9.0,17625600.0,0.0,3
+27050,maligniteit cervix,TC510,M13,SC7,DTC221936,43.0,200_3,AC370402,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-04-27 09:00:00,0.0,4.0,2.0,9.0,12096000.0,0.0,3
+27051,maligniteit cervix,TC510,M13,SC7,DTC221936,43.0,200_3,AC370403,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-04-27 09:00:00,0.0,4.0,2.0,9.0,12096000.0,0.0,3
+27052,maligniteit cervix,TC510,M13,SC7,DTC221936,43.0,200_3,AC370443,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-04-27 09:00:00,0.0,4.0,2.0,9.0,12096000.0,0.0,3
+27099,maligniteit cervix,TC101,M13,SC7,DTC221377,42.0,202_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-04-27 09:00:00,0.0,4.0,2.0,9.0,50976000.0,0.0,3
+17081,maligniteit cervix,TC101,M13,SC7,DTC222842,52.0,101_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-04-28 09:00:00,0.0,4.0,3.0,9.0,88300800.0,4406400.0,3
+17082,maligniteit cervix,TC101,M13,SC7,DTC222842,52.0,101_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-04-28 09:00:00,0.0,4.0,3.0,9.0,88300800.0,4406400.0,3
+6662,maligniteit cervix,TC101,M13,SC7,other,32.0,42_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-05-02 09:00:00,0.0,5.0,0.0,9.0,17712000.0,7603200.0,3
+6663,maligniteit cervix,TC101,M13,SC7,other,32.0,42_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-05-02 09:00:00,126720.0,5.0,0.0,9.0,17712000.0,7603200.0,3
+27199,Gynaecologische tumoren,TC61,DC106,SC7,DTC226309,50.0,207_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-05-04 09:00:00,0.0,5.0,2.0,9.0,48816000.0,0.0,3
+27200,Gynaecologische tumoren,TC61,DC106,SC7,DTC226309,50.0,207_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-05-04 09:00:00,0.0,5.0,2.0,9.0,48816000.0,0.0,3
+27207,Gynaecologische tumoren,TC61,DC106,SC7,other,42.0,208_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-05-04 09:00:00,0.0,5.0,2.0,9.0,78105600.0,0.0,3
+27208,Gynaecologische tumoren,TC61,DC106,SC7,other,42.0,208_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-05-04 09:00:00,0.0,5.0,2.0,9.0,78105600.0,0.0,3
+19591,Maligne neoplasma adnexa uteri,TC101,DC839,SC13,DTC464231,57.0,119_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-05-07 09:00:00,14400.0,5.0,5.0,9.0,89683200.0,4492800.0,3
+28268,maligniteit endometrium,TC3101,DC823,SC7,DTC227929,64.0,210_3,AC410100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-05-09 09:00:00,0.0,5.0,0.0,9.0,39484800.0,0.0,3
+28269,maligniteit endometrium,TC3101,DC823,SC7,DTC227929,64.0,210_3,339486E,SGEC,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-05-09 09:00:00,0.0,5.0,0.0,9.0,39484800.0,0.0,3
+28270,maligniteit endometrium,TC3101,DC823,SC7,DTC227929,64.0,210_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-05-09 09:00:00,0.0,5.0,0.0,9.0,39484800.0,0.0,3
+28345,maligniteit vulva,TC101,M11,SC7,DTC273249,57.0,211_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-05-10 09:00:00,0.0,5.0,1.0,9.0,87868800.0,0.0,3
+24520,maligniteit ovarium | tuba,TC101,M16,SC7,DTC229523,60.0,181_3,AC411100,SGAL,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-05-11 09:00:00,34560.0,5.0,2.0,9.0,88992000.0,2073600.0,3
+28458,maligniteit cervix,TC101,M13,SC7,DTC229555,33.0,216_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-05-11 09:00:00,0.0,5.0,2.0,9.0,82252800.0,0.0,3
+29066,maligniteit cervix,TC61,DC106,SC61,other,53.0,221_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-05-14 09:00:00,0.0,5.0,5.0,9.0,58492800.0,0.0,3
+29078,maligniteit cervix,TC61,DC106,SC61,DTC803549,61.0,222_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-05-16 09:00:00,0.0,5.0,0.0,9.0,49248000.0,0.0,3
+29156,Gynaecologische tumoren,TC13,DC106,SC61,DTC787870,70.0,223_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-05-16 09:00:00,0.0,5.0,0.0,9.0,61344000.0,0.0,3
+26986,maligniteit cervix,TC61,DC106,SC61,DTC392371,26.0,199_3,AC613000,H5ZU,Section 2,SC7,Nursing ward,1.0,2005-05-18 09:00:00,0.0,5.0,2.0,9.0,15811200.0,1814400.0,3
+26987,maligniteit cervix,TC61,DC106,SC61,DTC392371,26.0,199_3,AC610001,H5ZU,Section 2,SC7,Nursing ward,1.0,2005-05-18 09:00:00,0.0,5.0,2.0,9.0,15811200.0,1814400.0,3
+29165,maligniteit vulva,TC101,M11,SC7,DTC233586,73.0,224_3,AC411100,SGAL,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-05-18 09:00:00,0.0,5.0,2.0,9.0,79833600.0,0.0,3
+29166,maligniteit vulva,TC101,M11,SC7,DTC233586,73.0,224_3,AC419100,SGAL,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-05-18 09:00:00,0.0,5.0,2.0,9.0,79833600.0,0.0,3
+29180,Gynaecologische tumoren,TC61,DC106,SC7,other,72.0,226_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-05-18 09:00:00,0.0,5.0,2.0,9.0,62899200.0,0.0,3
+29183,maligniteit cervix,TC101,M13,SC7,other,40.0,227_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-05-18 09:00:00,0.0,5.0,2.0,9.0,34473600.0,0.0,3
+29184,maligniteit cervix,TC101,M13,SC7,other,40.0,227_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-05-18 09:00:00,0.0,5.0,2.0,9.0,34473600.0,0.0,3
+29949,maligniteit vulva,TC101,M11,SC7,other,73.0,230_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-05-21 09:00:00,0.0,5.0,5.0,9.0,60220800.0,0.0,3
+29155,Gynaecologische tumoren,TC13,DC106,SC61,DTC787870,70.0,223_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-05-23 09:00:00,10080.0,5.0,0.0,9.0,60739200.0,604800.0,3
+30049,maligniteit endometrium,TC101,M14,SC7,DTC246740,55.0,232_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-05-23 09:00:00,0.0,5.0,0.0,9.0,81129600.0,0.0,3
+5042,maligniteit ovarium | tuba,TC101,M16,SC7,DTC238155,71.0,29_3,AC379999,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-05-25 09:00:00,0.0,5.0,2.0,9.0,82857600.0,10713600.0,3
+5043,maligniteit ovarium | tuba,TC101,M16,SC7,DTC238155,71.0,29_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-05-25 09:00:00,0.0,5.0,2.0,9.0,82857600.0,10713600.0,3
+32021,maligniteit endometrium,TC101,M14,SC7,other,73.0,242_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-05-26 09:00:00,0.0,5.0,3.0,9.0,75600000.0,0.0,3
+32022,maligniteit endometrium,TC101,M14,SC7,other,73.0,242_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-05-26 09:00:00,0.0,5.0,3.0,9.0,75600000.0,0.0,3
+32205,maligniteit cervix,TC101,M13,SC7,DTC241211,56.0,245_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-05-30 09:00:00,0.0,5.0,0.0,9.0,87436800.0,0.0,3
+32206,maligniteit cervix,TC101,M13,SC7,DTC241211,56.0,245_3,AC372439,SLVE,Section 4,SC86,Special lab radiology,1.0,2005-05-30 09:00:00,0.0,5.0,0.0,9.0,87436800.0,0.0,3
+32207,maligniteit cervix,TC101,M13,SC7,DTC241211,56.0,245_3,372440A,SLVE,Section 4,SC86,Special lab radiology,1.0,2005-05-30 09:00:00,0.0,5.0,0.0,9.0,87436800.0,0.0,3
+32532,Maligne neoplasma cervix uteri,TC813,DC822,SC61,DTC268936,36.0,246_3,AC370402,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-05-30 09:00:00,0.0,5.0,0.0,9.0,87868800.0,0.0,3
+32533,Maligne neoplasma cervix uteri,TC813,DC822,SC61,DTC268936,36.0,246_3,AC370604,BLOB,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-05-30 09:00:00,0.0,5.0,0.0,9.0,87868800.0,0.0,3
+32534,Maligne neoplasma cervix uteri,TC813,DC822,SC61,DTC268936,36.0,246_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-05-30 09:00:00,0.0,5.0,0.0,9.0,87868800.0,0.0,3
+24498,maligniteit ovarium | tuba,TC101,M16,SC7,DTC229523,60.0,181_3,AC370443,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-06-01 09:00:00,0.0,6.0,2.0,9.0,87177600.0,3888000.0,3
+33349,maligniteit ovarium | tuba,TC803,M16,SC7,DTC243184,68.0,250_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-06-01 09:00:00,0.0,6.0,2.0,9.0,8899200.0,0.0,3
+33350,maligniteit ovarium | tuba,TC803,M16,SC7,DTC243184,68.0,250_3,AC410100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-06-01 09:00:00,0.0,6.0,2.0,9.0,8899200.0,0.0,3
+33351,maligniteit ovarium | tuba,TC803,M16,SC7,DTC243184,68.0,250_3,AC10107,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-06-01 09:00:00,0.0,6.0,2.0,9.0,8899200.0,0.0,3
+23690,maligniteit vulva,TC101,M11,SC7,other,67.0,164_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-06-02 09:00:00,0.0,6.0,3.0,9.0,84585600.0,4838400.0,3
+23691,maligniteit vulva,TC101,M11,SC7,other,67.0,164_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-06-02 09:00:00,80640.0,6.0,3.0,9.0,84585600.0,4838400.0,3
+33513,Maligne neoplasma cervix uteri,TC3101,M13,SC61,DTC250610,51.0,253_3,370407.0,HAEM,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-06-02 09:00:00,0.0,6.0,3.0,9.0,41126400.0,0.0,3
+33514,Maligne neoplasma cervix uteri,TC3101,M13,SC61,DTC250610,51.0,253_3,370488G,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-06-02 09:00:00,0.0,6.0,3.0,9.0,41126400.0,0.0,3
+33515,Maligne neoplasma cervix uteri,TC3101,M13,SC61,DTC250610,51.0,253_3,370488E,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-06-02 09:00:00,0.0,6.0,3.0,9.0,41126400.0,0.0,3
+6849,maligniteit endometrium,TC101,M14,SC7,DTC247860,65.0,44_3,AC386042,SRA6,Section 5,SC62,Radiology,1.0,2005-06-06 09:00:00,0.0,6.0,0.0,9.0,57628800.0,10540800.0,3
+34293,maligniteit ovarium | tuba,TC103,M16,SC61,DTC301600,82.0,260_3,AC410100,SRTH,Section 5,SC61,Radiotherapy,1.0,2005-06-08 09:00:00,0.0,6.0,2.0,9.0,8640000.0,0.0,3
+34294,maligniteit ovarium | tuba,TC103,M16,SC61,DTC301600,82.0,260_3,AC390550,RATH,Section 5,SC61,Radiotherapy,1.0,2005-06-08 09:00:00,0.0,6.0,2.0,9.0,8640000.0,0.0,3
+34295,maligniteit ovarium | tuba,TC103,M16,SC61,DTC301600,82.0,260_3,AC390002,RATH,Section 5,SC61,Radiotherapy,1.0,2005-06-08 09:00:00,0.0,6.0,2.0,9.0,8640000.0,0.0,3
+34353,maligniteit endometrium,TC101,M14,SC7,DTC290856,55.0,263_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-06-09 09:00:00,0.0,6.0,3.0,9.0,55036800.0,0.0,3
+29076,maligniteit cervix,TC61,DC106,SC61,DTC803549,61.0,222_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-06-13 09:00:00,0.0,6.0,0.0,9.0,46828800.0,2419200.0,3
+29077,maligniteit cervix,TC61,DC106,SC61,DTC803549,61.0,222_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-06-13 09:00:00,40320.0,6.0,0.0,9.0,46828800.0,2419200.0,3
+34542,maligniteit ovarium | tuba,TC603,M16,SC7,DTC254438,70.0,266_3,370488G,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-06-13 09:00:00,0.0,6.0,0.0,9.0,1468800.0,0.0,3
+34543,maligniteit ovarium | tuba,TC603,M16,SC7,DTC254438,70.0,266_3,AC370442,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-06-13 09:00:00,0.0,6.0,0.0,9.0,1468800.0,0.0,3
+34544,maligniteit ovarium | tuba,TC603,M16,SC7,DTC254438,70.0,266_3,370712B,HAEM,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-06-13 09:00:00,0.0,6.0,0.0,9.0,1468800.0,0.0,3
+34607,Gynaecologische tumoren,TC62,DC106,SC7,DTC315045,42.0,268_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-06-14 09:00:00,0.0,6.0,1.0,9.0,60393600.0,0.0,3
+34625,maligniteit ovarium | tuba,TC101,M16,SC7,DTC251292,41.0,269_3,AC419100,SGAL,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-06-14 09:00:00,0.0,6.0,1.0,9.0,73180800.0,0.0,3
+34626,maligniteit ovarium | tuba,TC101,M16,SC7,DTC251292,41.0,269_3,AC411100,SGAL,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-06-14 09:00:00,0.0,6.0,1.0,9.0,73180800.0,0.0,3
+19684,maligniteit vulva,TC101,M11,SC7,other,91.0,121_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-06-15 09:00:00,0.0,6.0,2.0,9.0,15724800.0,7776000.0,3
+19685,maligniteit vulva,TC101,M11,SC7,other,91.0,121_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-06-15 09:00:00,129600.0,6.0,2.0,9.0,15724800.0,7776000.0,3
+34913,maligniteit endometrium,TC101,M14,SC7,other,68.0,271_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-06-15 09:00:00,0.0,6.0,2.0,9.0,67737600.0,0.0,3
+34914,maligniteit endometrium,TC101,M14,SC7,other,68.0,271_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-06-15 09:00:00,0.0,6.0,2.0,9.0,67737600.0,0.0,3
+34973,Gynaecologische tumoren,TC13,DC106,SC7,DTC253037,77.0,275_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-06-16 09:00:00,0.0,6.0,3.0,9.0,82252800.0,0.0,3
+34974,Gynaecologische tumoren,TC13,DC106,SC7,DTC253037,77.0,275_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-06-16 09:00:00,0.0,6.0,3.0,9.0,82252800.0,0.0,3
+11129,Gynaecologische tumoren,TC61,DC106,SC7,other,43.0,74_3,AC411100,SGEH,Section 2,SC7,Nursing ward,1.0,2005-06-19 09:00:00,0.0,6.0,6.0,9.0,40867200.0,10454400.0,3
+11130,Gynaecologische tumoren,TC61,DC106,SC7,other,43.0,74_3,AC419100,SGEH,Section 2,SC7,Nursing ward,1.0,2005-06-19 09:00:00,174240.0,6.0,6.0,9.0,40867200.0,10454400.0,3
+35075,Gynaecologische tumoren,TC61,DC106,SC7,DTC449929,50.0,278_3,AC411100,SRTH,Section 5,SC61,Radiotherapy,1.0,2005-06-20 09:00:00,0.0,6.0,0.0,9.0,68947200.0,0.0,3
+35076,Gynaecologische tumoren,TC61,DC106,SC7,DTC449929,50.0,278_3,AC386002,SRA1,Section 5,SC62,Radiology,1.0,2005-06-20 09:00:00,0.0,6.0,0.0,9.0,68947200.0,0.0,3
+8199,maligniteit vulva,TC101,M11,SC7,other,84.0,61_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-06-22 09:00:00,187200.0,6.0,2.0,9.0,15724800.0,11232000.0,3
+35172,maligniteit vulva,TC101,M11,SC7,DTC256757,80.0,280_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-06-22 09:00:00,0.0,6.0,2.0,9.0,84758400.0,0.0,3
+35173,maligniteit vulva,TC101,M11,SC7,DTC256757,80.0,280_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-06-22 09:00:00,0.0,6.0,2.0,9.0,84758400.0,0.0,3
+35942,maligniteit endometrium,TC101,M14,SC61,DTC390356,59.0,293_3,AC419100,SRTH,Section 5,SC61,Radiotherapy,1.0,2005-06-29 09:00:00,0.0,6.0,2.0,9.0,81734400.0,0.0,3
+35943,maligniteit endometrium,TC101,M14,SC61,DTC390356,59.0,293_3,AC410100,SRTH,Section 5,SC61,Radiotherapy,1.0,2005-06-29 09:00:00,0.0,6.0,2.0,9.0,81734400.0,0.0,3
+36565,Maligne neoplasma cervix uteri,TC61,DC822,SC61,DTC297647,50.0,296_3,AC370401,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-06-30 09:00:00,0.0,6.0,3.0,9.0,84067200.0,0.0,3
+36566,Maligne neoplasma cervix uteri,TC61,DC822,SC61,DTC297647,50.0,296_3,370488J,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-06-30 09:00:00,0.0,6.0,3.0,9.0,84067200.0,0.0,3
+36567,Maligne neoplasma cervix uteri,TC61,DC822,SC61,DTC297647,50.0,296_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-06-30 09:00:00,0.0,6.0,3.0,9.0,84067200.0,0.0,3
+36614,maligniteit ovarium | tuba,TC101,M16,SC7,DTC270582,59.0,298_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-07-02 09:00:00,0.0,7.0,5.0,9.0,1555200.0,0.0,3
+36705,maligniteit vulva,TC603,M11,SC7,DTC263801,80.0,299_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-07-03 09:00:00,0.0,7.0,6.0,9.0,70502400.0,0.0,3
+36703,maligniteit vulva,TC603,M11,SC7,DTC263801,80.0,299_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-07-04 09:00:00,0.0,7.0,0.0,9.0,70416000.0,86400.0,3
+36704,maligniteit vulva,TC603,M11,SC7,DTC263801,80.0,299_3,AC356134,LVPT,Section 4,SC88,Pathology,1.0,2005-07-04 09:00:00,1440.0,7.0,0.0,9.0,70416000.0,86400.0,3
+37170,maligniteit endometrium,TC103,M14,SC7,DTC549031,54.0,303_3,370488T,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-07-04 09:00:00,0.0,7.0,0.0,9.0,691200.0,0.0,3
+37171,maligniteit endometrium,TC103,M14,SC7,DTC549031,54.0,303_3,370403S,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-07-04 09:00:00,0.0,7.0,0.0,9.0,691200.0,0.0,3
+37172,maligniteit endometrium,TC103,M14,SC7,DTC549031,54.0,303_3,370443S,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-07-04 09:00:00,0.0,7.0,0.0,9.0,691200.0,0.0,3
+25303,Plav.celcarc. vulva: st I,TC101,M11,SC7,DTC220052,79.0,192_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-07-05 09:00:00,102240.0,7.0,1.0,9.0,77328000.0,6134400.0,3
+25301,Plav.celcarc. vulva: st I,TC101,M11,SC7,DTC220052,79.0,192_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-07-06 09:00:00,0.0,7.0,2.0,9.0,77241600.0,6220800.0,3
+37223,maligniteit vulva,TC101,M11,SC7,other,84.0,305_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-07-06 09:00:00,0.0,7.0,2.0,9.0,24192000.0,0.0,3
+37265,maligniteit cervix,TC603,M13,SC7,DTC266024,52.0,306_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-07-06 09:00:00,0.0,7.0,2.0,9.0,76723200.0,0.0,3
+37266,maligniteit cervix,TC603,M13,SC7,DTC266024,52.0,306_3,AC410100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-07-06 09:00:00,0.0,7.0,2.0,9.0,76723200.0,0.0,3
+37267,maligniteit cervix,TC603,M13,SC7,DTC266024,52.0,306_3,AC10107,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-07-06 09:00:00,0.0,7.0,2.0,9.0,76723200.0,0.0,3
+37307,maligniteit ovarium | tuba,TC101,M16,SC7,other,59.0,308_3,AC411100,SGAL,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-07-06 09:00:00,0.0,7.0,2.0,9.0,72576000.0,0.0,3
+37308,maligniteit ovarium | tuba,TC101,M16,SC7,other,59.0,308_3,AC419100,SGAL,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-07-06 09:00:00,0.0,7.0,2.0,9.0,72576000.0,0.0,3
+37604,maligniteit vulva,TC503,M11,SC7,DTC266947,74.0,311_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-07-07 09:00:00,0.0,7.0,3.0,9.0,5356800.0,0.0,3
+37605,maligniteit vulva,TC503,M11,SC7,DTC266947,74.0,311_3,AC410100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-07-07 09:00:00,0.0,7.0,3.0,9.0,5356800.0,0.0,3
+37606,maligniteit vulva,TC503,M11,SC7,DTC266947,74.0,311_3,AC10107,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-07-07 09:00:00,0.0,7.0,3.0,9.0,5356800.0,0.0,3
+37646,maligniteit endometrium,TC101,M14,SC7,DTC322180,69.0,314_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-07-08 09:00:00,0.0,7.0,4.0,9.0,80784000.0,0.0,3
+37645,maligniteit endometrium,TC101,M14,SC7,DTC322180,69.0,314_3,387042A,SRA6,Section 5,SC62,Radiology,1.0,2005-07-12 09:00:00,5760.0,7.0,1.0,9.0,80438400.0,345600.0,3
+37974,maligniteit cervix,TC103,M13,SC7,DTC274807,41.0,317_3,370402S,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-07-12 09:00:00,0.0,7.0,1.0,9.0,1987200.0,0.0,3
+37975,maligniteit cervix,TC103,M13,SC7,DTC274807,41.0,317_3,370421S,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-07-12 09:00:00,0.0,7.0,1.0,9.0,1987200.0,0.0,3
+37976,maligniteit cervix,TC103,M13,SC7,DTC274807,41.0,317_3,370488T,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-07-12 09:00:00,0.0,7.0,1.0,9.0,1987200.0,0.0,3
+38016,Gynaecologische tumoren,TC61,DC106,SC7,other,63.0,318_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-07-12 09:00:00,0.0,7.0,1.0,9.0,58838400.0,0.0,3
+38023,Gynaecologische tumoren,TC61,DC106,SC7,other,80.0,319_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-07-12 09:00:00,0.0,7.0,1.0,9.0,62208000.0,0.0,3
+5809,maligniteit myometrium,TC101,M15,SC7,DTC270518,36.0,34_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-07-13 09:00:00,0.0,7.0,2.0,9.0,84585600.0,14256000.0,3
+5810,maligniteit myometrium,TC101,M15,SC7,DTC270518,36.0,34_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-07-13 09:00:00,237600.0,7.0,2.0,9.0,84585600.0,14256000.0,3
+36603,maligniteit ovarium | tuba,TC101,M16,SC7,DTC270582,59.0,298_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-07-13 09:00:00,0.0,7.0,2.0,9.0,604800.0,950400.0,3
+36604,maligniteit ovarium | tuba,TC101,M16,SC7,DTC270582,59.0,298_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-07-13 09:00:00,0.0,7.0,2.0,9.0,604800.0,950400.0,3
+38262,maligniteit cervix,TC101,M13,SC7,other,52.0,324_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-07-14 09:00:00,0.0,7.0,3.0,9.0,68256000.0,0.0,3
+28343,maligniteit vulva,TC101,M11,SC7,DTC273249,57.0,211_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-07-18 09:00:00,0.0,7.0,0.0,9.0,81907200.0,5961600.0,3
+28344,maligniteit vulva,TC101,M11,SC7,DTC273249,57.0,211_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-07-18 09:00:00,99360.0,7.0,0.0,9.0,81907200.0,5961600.0,3
+35940,maligniteit endometrium,TC101,M14,SC61,DTC390356,59.0,293_3,AC390550,RATH,Section 5,SC61,Radiotherapy,1.0,2005-07-18 09:00:00,0.0,7.0,0.0,9.0,80092800.0,1641600.0,3
+29947,maligniteit vulva,TC101,M11,SC7,other,73.0,230_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-07-20 09:00:00,0.0,7.0,2.0,9.0,55036800.0,5184000.0,3
+29948,maligniteit vulva,TC101,M11,SC7,other,73.0,230_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-07-20 09:00:00,86400.0,7.0,2.0,9.0,55036800.0,5184000.0,3
+37644,maligniteit endometrium,TC101,M14,SC7,DTC322180,69.0,314_3,AC415100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-07-20 09:00:00,11520.0,7.0,2.0,9.0,79747200.0,1036800.0,3
+38260,maligniteit cervix,TC101,M13,SC7,other,52.0,324_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-07-20 09:00:00,0.0,7.0,2.0,9.0,67737600.0,518400.0,3
+38261,maligniteit cervix,TC101,M13,SC7,other,52.0,324_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-07-20 09:00:00,8640.0,7.0,2.0,9.0,67737600.0,518400.0,3
+39109,maligniteit vulva,TC101,M11,SC7,other,73.0,331_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-07-20 09:00:00,0.0,7.0,2.0,9.0,71366400.0,0.0,3
+39868,Gynaecologische tumoren,TC101,DC106,SC61,DTC785776,85.0,332_3,AC419100,SGAL,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-07-20 09:00:00,0.0,7.0,2.0,9.0,82857600.0,0.0,3
+39869,Gynaecologische tumoren,TC101,DC106,SC61,DTC785776,85.0,332_3,AC411100,SGAL,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-07-20 09:00:00,0.0,7.0,2.0,9.0,82857600.0,0.0,3
+39963,Maligne neoplasma vulva,TC3104,DC839,SC7,DTC275114,85.0,333_3,AC370403,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-07-20 09:00:00,0.0,7.0,2.0,9.0,35683200.0,0.0,3
+39964,Maligne neoplasma vulva,TC3104,DC839,SC7,DTC275114,85.0,333_3,AC370443,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-07-20 09:00:00,0.0,7.0,2.0,9.0,35683200.0,0.0,3
+39965,Maligne neoplasma vulva,TC3104,DC839,SC7,DTC275114,85.0,333_3,AC370442,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-07-20 09:00:00,0.0,7.0,2.0,9.0,35683200.0,0.0,3
+40011,maligniteit vagina,TC101,M12,SC7,DTC274946,42.0,334_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-07-20 09:00:00,0.0,7.0,2.0,9.0,49593600.0,0.0,3
+40012,maligniteit vagina,TC101,M12,SC7,DTC274946,42.0,334_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-07-20 09:00:00,0.0,7.0,2.0,9.0,49593600.0,0.0,3
+40013,maligniteit vagina,TC101,M12,SC7,DTC274946,42.0,334_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-07-20 09:00:00,0.0,7.0,2.0,9.0,49593600.0,0.0,3
+40297,maligniteit ovarium | tuba,TC101,M16,SC7,DTC274937,64.0,335_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-07-20 09:00:00,0.0,7.0,2.0,9.0,81043200.0,0.0,3
+38014,Gynaecologische tumoren,TC61,DC106,SC7,other,63.0,318_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-07-21 09:00:00,0.0,7.0,3.0,9.0,58060800.0,777600.0,3
+38015,Gynaecologische tumoren,TC61,DC106,SC7,other,63.0,318_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-07-21 09:00:00,12960.0,7.0,3.0,9.0,58060800.0,777600.0,3
+40336,Maligne neoplasma cervix uteri,TC3101,M13,SC61,DTC281540,51.0,336_3,AC419100,SRTH,Section 5,SC61,Radiotherapy,1.0,2005-07-21 09:00:00,0.0,7.0,3.0,9.0,57196800.0,0.0,3
+40337,Maligne neoplasma cervix uteri,TC3101,M13,SC61,DTC281540,51.0,336_3,AC410100,SRTH,Section 5,SC61,Radiotherapy,1.0,2005-07-21 09:00:00,0.0,7.0,3.0,9.0,57196800.0,0.0,3
+40380,maligniteit ovarium | tuba,TC101,M16,SC7,DTC322089,37.0,338_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-07-22 09:00:00,0.0,7.0,4.0,9.0,7776000.0,0.0,3
+42551,Maligne neoplasma cervix uteri,TC101,DC822,SC61,DTC560924,32.0,345_3,AC415100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-07-28 09:00:00,0.0,7.0,3.0,9.0,58579200.0,0.0,3
+42552,Maligne neoplasma cervix uteri,TC101,DC822,SC61,DTC560924,32.0,345_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-07-28 09:00:00,0.0,7.0,3.0,9.0,58579200.0,0.0,3
+42615,maligniteit cervix,TC101,DC106,SC7,DTC281429,73.0,346_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-07-28 09:00:00,0.0,7.0,3.0,9.0,72576000.0,0.0,3
+40333,Maligne neoplasma cervix uteri,TC3101,M13,SC61,DTC281540,51.0,336_3,AC10113,SIOG,Section 1,SC13,Internal Specialisms clinic,1.0,2005-08-01 09:00:00,0.0,8.0,0.0,9.0,56246400.0,950400.0,3
+42613,maligniteit cervix,TC101,DC106,SC7,DTC281429,73.0,346_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-08-01 09:00:00,0.0,8.0,0.0,9.0,72230400.0,345600.0,3
+42614,maligniteit cervix,TC101,DC106,SC7,DTC281429,73.0,346_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-08-01 09:00:00,5760.0,8.0,0.0,9.0,72230400.0,345600.0,3
+42859,maligniteit cervix,TC101,M13,SC7,other,65.0,352_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-08-02 09:00:00,0.0,8.0,1.0,9.0,33955200.0,0.0,3
+42879,maligniteit endometrium,TC101,M14,SC7,DTC333715,43.0,353_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-08-02 09:00:00,0.0,8.0,1.0,9.0,66096000.0,0.0,3
+42550,Maligne neoplasma cervix uteri,TC101,DC822,SC61,DTC560924,32.0,345_3,387042A,SRA6,Section 5,SC62,Radiology,1.0,2005-08-08 09:00:00,15840.0,8.0,0.0,9.0,57628800.0,950400.0,3
+43591,maligniteit vulva,TC813,M11,SC7,DTC285249,84.0,358_3,370488G,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-08-08 09:00:00,0.0,8.0,0.0,9.0,73353600.0,0.0,3
+43592,maligniteit vulva,TC813,M11,SC7,DTC285249,84.0,358_3,AC359999,LVPT,Section 4,SC88,Pathology,1.0,2005-08-08 09:00:00,0.0,8.0,0.0,9.0,73353600.0,0.0,3
+43593,maligniteit vulva,TC813,M11,SC7,DTC285249,84.0,358_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-08-08 09:00:00,0.0,8.0,0.0,9.0,73353600.0,0.0,3
+43749,maligniteit cervix,TC101,M13,SC7,other,67.0,361_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-08-11 09:00:00,0.0,8.0,3.0,9.0,10800000.0,0.0,3
+43756,maligniteit cervix,TC101,M13,SC7,other,48.0,362_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-08-13 09:00:00,0.0,8.0,5.0,9.0,74044800.0,0.0,3
+35074,Gynaecologische tumoren,TC61,DC106,SC7,DTC449929,50.0,278_3,AC411100,SRTH,Section 5,SC61,Radiotherapy,1.0,2005-08-15 09:00:00,80640.0,8.0,0.0,9.0,64108800.0,4838400.0,3
+34351,maligniteit endometrium,TC101,M14,SC7,DTC290856,55.0,263_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-08-17 09:00:00,0.0,8.0,2.0,9.0,49075200.0,5961600.0,3
+34352,maligniteit endometrium,TC101,M14,SC7,DTC290856,55.0,263_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-08-17 09:00:00,99360.0,8.0,2.0,9.0,49075200.0,5961600.0,3
+42857,maligniteit cervix,TC101,M13,SC7,other,65.0,352_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-08-17 09:00:00,0.0,8.0,2.0,9.0,32659200.0,1296000.0,3
+42858,maligniteit cervix,TC101,M13,SC7,other,65.0,352_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-08-17 09:00:00,21600.0,8.0,2.0,9.0,32659200.0,1296000.0,3
+44209,Recidieven corpus maligniteit uteri (nno),TC101,M14,SC61,DTC390872,79.0,365_3,AC419100,SRTH,Section 5,SC61,Radiotherapy,1.0,2005-08-17 09:00:00,0.0,8.0,2.0,9.0,62726400.0,0.0,3
+44210,Recidieven corpus maligniteit uteri (nno),TC101,M14,SC61,DTC390872,79.0,365_3,AC410100,SRTH,Section 5,SC61,Radiotherapy,1.0,2005-08-17 09:00:00,0.0,8.0,2.0,9.0,62726400.0,0.0,3
+44239,Maligne nieuwvormingen ovarium (ov),TC101,M16,SC7,DTC291148,27.0,366_3,other,SLVE,Section 4,SC86,Special lab radiology,1.0,2005-08-17 09:00:00,0.0,8.0,2.0,9.0,73785600.0,0.0,3
+44240,Maligne nieuwvormingen ovarium (ov),TC101,M16,SC7,DTC291148,27.0,366_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-08-17 09:00:00,0.0,8.0,2.0,9.0,73785600.0,0.0,3
+44241,Maligne nieuwvormingen ovarium (ov),TC101,M16,SC7,DTC291148,27.0,366_3,376487.0,SLVE,Section 4,SC86,Special lab radiology,1.0,2005-08-17 09:00:00,0.0,8.0,2.0,9.0,73785600.0,0.0,3
+44692,Maligne neoplasma cervix uteri,TC813,DC822,SC61,DTC332203,39.0,371_3,AC410100,SGAL,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-08-23 09:00:00,0.0,8.0,1.0,9.0,63590400.0,0.0,3
+44693,Maligne neoplasma cervix uteri,TC813,DC822,SC61,DTC332203,39.0,371_3,AC386002,SRA1,Section 5,SC62,Radiology,1.0,2005-08-23 09:00:00,0.0,8.0,1.0,9.0,63590400.0,0.0,3
+44694,Maligne neoplasma cervix uteri,TC813,DC822,SC61,DTC332203,39.0,371_3,AC419100,SGAL,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-08-23 09:00:00,0.0,8.0,1.0,9.0,63590400.0,0.0,3
+44776,maligniteit cervix,TC101,M13,SC7,DTC319529,52.0,373_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-08-23 09:00:00,0.0,8.0,1.0,9.0,81043200.0,0.0,3
+45101,Maligne neoplasma cervix uteri,TC113,DC822,SC61,DTC317582,45.0,374_3,370488G,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-08-24 09:00:00,0.0,8.0,2.0,9.0,32400000.0,0.0,3
+45102,Maligne neoplasma cervix uteri,TC113,DC822,SC61,DTC317582,45.0,374_3,AC356134,LVPT,Section 4,SC88,Pathology,1.0,2005-08-24 09:00:00,0.0,8.0,2.0,9.0,32400000.0,0.0,3
+45103,Maligne neoplasma cervix uteri,TC113,DC822,SC61,DTC317582,45.0,374_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-08-24 09:00:00,0.0,8.0,2.0,9.0,32400000.0,0.0,3
+46804,Maligne neoplasma ovarium,TC3101,DC821,SC13,DTC297667,54.0,377_3,370488E,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-08-24 09:00:00,0.0,8.0,2.0,9.0,57024000.0,0.0,3
+46805,Maligne neoplasma ovarium,TC3101,DC821,SC13,DTC297667,54.0,377_3,AC370402,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-08-24 09:00:00,0.0,8.0,2.0,9.0,57024000.0,0.0,3
+46806,Maligne neoplasma ovarium,TC3101,DC821,SC13,DTC297667,54.0,377_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-08-24 09:00:00,0.0,8.0,2.0,9.0,57024000.0,0.0,3
+44207,Recidieven corpus maligniteit uteri (nno),TC101,M14,SC61,DTC390872,79.0,365_3,AC390550,RATH,Section 5,SC61,Radiotherapy,1.0,2005-08-30 09:00:00,0.0,8.0,1.0,9.0,61603200.0,1123200.0,3
+24554,maligniteit cervix,TC101,M13,SC7,other,54.0,184_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-08-31 09:00:00,0.0,8.0,2.0,9.0,0.0,11577600.0,3
+24555,maligniteit cervix,TC101,M13,SC7,other,54.0,184_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-08-31 09:00:00,192960.0,8.0,2.0,9.0,0.0,11577600.0,3
+38021,Gynaecologische tumoren,TC61,DC106,SC7,other,80.0,319_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-08-31 09:00:00,0.0,8.0,2.0,9.0,57888000.0,4320000.0,3
+38022,Gynaecologische tumoren,TC61,DC106,SC7,other,80.0,319_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-08-31 09:00:00,72000.0,8.0,2.0,9.0,57888000.0,4320000.0,3
+48013,maligniteit ovarium | tuba,TC101,M16,SC7,DTC322158,51.0,384_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-09-01 09:00:00,0.0,9.0,3.0,9.0,50198400.0,0.0,3
+48887,maligniteit endometrium,TC3101,DC823,SC13,DTC309433,58.0,387_3,AC419100,SIOG,Section 1,SC13,Internal Specialisms clinic,1.0,2005-09-05 09:00:00,0.0,9.0,0.0,9.0,25056000.0,0.0,3
+48888,maligniteit endometrium,TC3101,DC823,SC13,DTC309433,58.0,387_3,AC410100,SIOG,Section 1,SC13,Internal Specialisms clinic,1.0,2005-09-05 09:00:00,0.0,9.0,0.0,9.0,25056000.0,0.0,3
+48889,maligniteit endometrium,TC3101,DC823,SC13,DTC309433,58.0,387_3,AC10113,SIOG,Section 1,SC13,Internal Specialisms clinic,1.0,2005-09-05 09:00:00,0.0,9.0,0.0,9.0,25056000.0,0.0,3
+49121,maligniteit vulva,TC101,M11,SC7,other,86.0,390_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-09-07 09:00:00,0.0,9.0,2.0,9.0,64108800.0,0.0,3
+49122,maligniteit vulva,TC101,M11,SC7,other,86.0,390_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-09-07 09:00:00,0.0,9.0,2.0,9.0,64108800.0,0.0,3
+49153,Gynaecologische tumoren,TC61,DC106,SC7,DTC363167,89.0,391_3,AC415100,SGAL,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-09-07 09:00:00,0.0,9.0,2.0,9.0,79833600.0,0.0,3
+49396,Maligne neoplasma cervix uteri,TC103,DC822,SC61,DTC313464,44.0,395_3,AC370403,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-09-07 09:00:00,0.0,9.0,2.0,9.0,33264000.0,0.0,3
+49397,Maligne neoplasma cervix uteri,TC103,DC822,SC61,DTC313464,44.0,395_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-09-07 09:00:00,0.0,9.0,2.0,9.0,33264000.0,0.0,3
+49398,Maligne neoplasma cervix uteri,TC103,DC822,SC61,DTC313464,44.0,395_3,AC370401,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-09-07 09:00:00,0.0,9.0,2.0,9.0,33264000.0,0.0,3
+49629,maligniteit ovarium | tuba,TC101,M16,SC7,DTC303420,51.0,397_3,AC10107,SGAL,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-09-07 09:00:00,0.0,9.0,2.0,9.0,42336000.0,0.0,3
+49630,maligniteit ovarium | tuba,TC101,M16,SC7,DTC303420,51.0,397_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-09-07 09:00:00,0.0,9.0,2.0,9.0,42336000.0,0.0,3
+49631,maligniteit ovarium | tuba,TC101,M16,SC7,DTC303420,51.0,397_3,other,SLVE,Section 4,SC86,Special lab radiology,1.0,2005-09-07 09:00:00,0.0,9.0,2.0,9.0,42336000.0,0.0,3
+17590,maligniteit cervix,TC101,M13,SC7,other,51.0,108_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-09-08 09:00:00,0.0,9.0,3.0,9.0,47779200.0,15724800.0,3
+50121,Gynaecologische tumoren,TC13,DC106,SC61,DTC391454,45.0,403_3,AC378546,LBAC,Section 4,SC87,Medical Microbiology,1.0,2005-09-08 09:00:00,0.0,9.0,3.0,9.0,57369600.0,0.0,3
+50122,Gynaecologische tumoren,TC13,DC106,SC61,DTC391454,45.0,403_3,AC355201,LVPT,Section 4,SC88,Pathology,1.0,2005-09-08 09:00:00,0.0,9.0,3.0,9.0,57369600.0,0.0,3
+50123,Gynaecologische tumoren,TC13,DC106,SC61,DTC391454,45.0,403_3,AC370000,LBAC,Section 4,SC87,Medical Microbiology,1.0,2005-09-08 09:00:00,0.0,9.0,3.0,9.0,57369600.0,0.0,3
+50453,maligniteit myometrium,TC101,M15,SC7,other,57.0,407_3,AC10107,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-09-12 09:00:00,0.0,9.0,0.0,9.0,24364800.0,0.0,3
+50454,maligniteit myometrium,TC101,M15,SC7,other,57.0,407_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-09-12 09:00:00,0.0,9.0,0.0,9.0,24364800.0,0.0,3
+50455,maligniteit myometrium,TC101,M15,SC7,other,57.0,407_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-09-12 09:00:00,0.0,9.0,0.0,9.0,24364800.0,0.0,3
+17884,Gynaecologische tumoren,TC61,DC106,SC7,DTC309350,45.0,113_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-09-14 09:00:00,0.0,9.0,2.0,9.0,43718400.0,15811200.0,3
+17885,Gynaecologische tumoren,TC61,DC106,SC7,DTC309350,45.0,113_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-09-14 09:00:00,263520.0,9.0,2.0,9.0,43718400.0,15811200.0,3
+50464,maligniteit cervix,TC101,M13,SC7,other,75.0,410_3,AC10107,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-09-14 09:00:00,0.0,9.0,2.0,9.0,0.0,0.0,3
+50465,maligniteit cervix,TC101,M13,SC7,other,75.0,410_3,AC355111,LVPT,Section 4,SC88,Pathology,1.0,2005-09-14 09:00:00,0.0,9.0,2.0,9.0,0.0,0.0,3
+50466,maligniteit cervix,TC101,M13,SC7,other,75.0,410_3,AC410100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-09-14 09:00:00,0.0,9.0,2.0,9.0,0.0,0.0,3
+20369,Gynaecologische tumoren,TC61,DC106,SC7,DTC310159,47.0,129_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-09-15 09:00:00,0.0,9.0,3.0,9.0,78364800.0,15206400.0,3
+20370,Gynaecologische tumoren,TC61,DC106,SC7,DTC310159,47.0,129_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-09-15 09:00:00,253440.0,9.0,3.0,9.0,78364800.0,15206400.0,3
+50942,maligniteit vulva,TC803,M11,SC7,DTC312565,74.0,417_3,AC370402,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-09-19 09:00:00,0.0,9.0,0.0,9.0,29203200.0,0.0,3
+50943,maligniteit vulva,TC803,M11,SC7,DTC312565,74.0,417_3,370488G,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-09-19 09:00:00,0.0,9.0,0.0,9.0,29203200.0,0.0,3
+50944,maligniteit vulva,TC803,M11,SC7,DTC312565,74.0,417_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-09-19 09:00:00,0.0,9.0,0.0,9.0,29203200.0,0.0,3
+34605,Gynaecologische tumoren,TC62,DC106,SC7,DTC315045,42.0,268_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-09-22 09:00:00,0.0,9.0,3.0,9.0,51753600.0,8640000.0,3
+34606,Gynaecologische tumoren,TC62,DC106,SC7,DTC315045,42.0,268_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-09-22 09:00:00,144000.0,9.0,3.0,9.0,51753600.0,8640000.0,3
+51521,maligniteit cervix,TC101,M13,SC7,other,47.0,425_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-09-22 09:00:00,0.0,9.0,3.0,9.0,32054400.0,0.0,3
+51522,maligniteit cervix,TC101,M13,SC7,other,47.0,425_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-09-22 09:00:00,0.0,9.0,3.0,9.0,32054400.0,0.0,3
+48010,maligniteit ovarium | tuba,TC101,M16,SC7,DTC322158,51.0,384_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-09-26 09:00:00,0.0,9.0,0.0,9.0,48038400.0,2160000.0,3
+48011,maligniteit ovarium | tuba,TC101,M16,SC7,DTC322158,51.0,384_3,378619A,CHE1,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-09-26 09:00:00,0.0,9.0,0.0,9.0,48038400.0,2160000.0,3
+44774,maligniteit cervix,TC101,M13,SC7,DTC319529,52.0,373_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-09-28 09:00:00,0.0,9.0,2.0,9.0,77932800.0,3110400.0,3
+44775,maligniteit cervix,TC101,M13,SC7,DTC319529,52.0,373_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-09-28 09:00:00,51840.0,9.0,2.0,9.0,77932800.0,3110400.0,3
+51641,maligniteit cervix,TC101,M13,SC7,other,74.0,431_3,AC10107,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-09-28 09:00:00,0.0,9.0,2.0,9.0,0.0,0.0,3
+51642,maligniteit cervix,TC101,M13,SC7,other,74.0,431_3,AC410100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-09-28 09:00:00,0.0,9.0,2.0,9.0,0.0,0.0,3
+51643,maligniteit cervix,TC101,M13,SC7,other,74.0,431_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-09-28 09:00:00,0.0,9.0,2.0,9.0,0.0,0.0,3
+51879,maligniteit vulva,TC813,M11,SC7,DTC320583,82.0,432_3,AC20189,H1NO,Section 3,SC89,Recovery room / high care,1.0,2005-09-29 09:00:00,0.0,9.0,3.0,9.0,74390400.0,0.0,3
+51880,maligniteit vulva,TC813,M11,SC7,DTC320583,82.0,432_3,370401C,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-09-29 09:00:00,0.0,9.0,3.0,9.0,74390400.0,0.0,3
+51881,maligniteit vulva,TC813,M11,SC7,DTC320583,82.0,432_3,370488G,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-09-29 09:00:00,0.0,9.0,3.0,9.0,74390400.0,0.0,3
+52025,maligniteit vulva,TC101,M11,SC7,DTC368248,52.0,434_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-09-29 09:00:00,0.0,9.0,3.0,9.0,75427200.0,0.0,3
+52029,maligniteit cervix,TC101,M13,SC7,other,36.0,435_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-09-29 09:00:00,0.0,9.0,3.0,9.0,34473600.0,0.0,3
+52034,maligniteit ovarium | tuba,TC101,M16,SC7,other,73.0,436_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-09-29 09:00:00,0.0,9.0,3.0,9.0,64713600.0,0.0,3
+52035,maligniteit ovarium | tuba,TC101,M16,SC7,other,73.0,436_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-09-29 09:00:00,0.0,9.0,3.0,9.0,64713600.0,0.0,3
+17735,maligniteit vulva,TC101,M11,SC7,other,77.0,111_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-10-03 09:00:00,292320.0,10.0,0.0,9.0,32054400.0,17539200.0,3
+21801,maligniteit vulva,TC101,M11,SC7,DTC200214,70.0,133_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-10-03 09:00:00,277920.0,10.0,0.0,9.0,67392000.0,16675200.0,3
+40371,maligniteit ovarium | tuba,TC101,M16,SC7,DTC322089,37.0,338_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-10-03 09:00:00,0.0,10.0,0.0,9.0,1468800.0,6307200.0,3
+40372,maligniteit ovarium | tuba,TC101,M16,SC7,DTC322089,37.0,338_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-10-03 09:00:00,0.0,10.0,0.0,9.0,1468800.0,6307200.0,3
+52193,Maligne neoplasma cervix uteri,TC113,DC822,SC61,DTC333226,44.0,440_3,AC370401,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-10-03 09:00:00,0.0,10.0,0.0,9.0,41126400.0,0.0,3
+52194,Maligne neoplasma cervix uteri,TC113,DC822,SC61,DTC333226,44.0,440_3,AC370604,BLOB,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-10-03 09:00:00,0.0,10.0,0.0,9.0,41126400.0,0.0,3
+52195,Maligne neoplasma cervix uteri,TC113,DC822,SC61,DTC333226,44.0,440_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-10-03 09:00:00,0.0,10.0,0.0,9.0,41126400.0,0.0,3
+53163,maligniteit vulva,TC3303,DC839,SC13,DTC383910,83.0,448_3,other,other,Section 6,SC13,other,1.0,2005-10-07 09:00:00,0.0,10.0,4.0,9.0,4060800.0,0.0,3
+53164,maligniteit vulva,TC3303,DC839,SC13,DTC383910,83.0,448_3,370426S,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-10-07 09:00:00,0.0,10.0,4.0,9.0,4060800.0,0.0,3
+53165,maligniteit vulva,TC3303,DC839,SC13,DTC383910,83.0,448_3,AC339956,other,Section 6,SC13,other,1.0,2005-10-07 09:00:00,0.0,10.0,4.0,9.0,4060800.0,0.0,3
+53274,maligniteit cervix,TC101,M13,SC7,DTC334664,36.0,450_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-10-10 09:00:00,0.0,10.0,0.0,9.0,71107200.0,0.0,3
+32020,maligniteit endometrium,TC101,M14,SC7,other,73.0,242_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-10-14 09:00:00,203040.0,10.0,4.0,9.0,63417600.0,12182400.0,3
+17049,Maligne neoplasma ovarium,TC3101,DC821,SC7,DTC207533,69.0,100_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-10-19 09:00:00,0.0,10.0,2.0,9.0,75600000.0,19526400.0,3
+42878,maligniteit endometrium,TC101,M14,SC7,DTC333715,43.0,353_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-10-19 09:00:00,112320.0,10.0,2.0,9.0,59356800.0,6739200.0,3
+54213,maligniteit cervix,TC101,M13,SC7,other,53.0,462_3,AC10107,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-10-19 09:00:00,0.0,10.0,2.0,9.0,0.0,0.0,3
+54214,maligniteit cervix,TC101,M13,SC7,other,53.0,462_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-10-19 09:00:00,0.0,10.0,2.0,9.0,0.0,0.0,3
+54215,maligniteit cervix,TC101,M13,SC7,other,53.0,462_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-10-19 09:00:00,0.0,10.0,2.0,9.0,0.0,0.0,3
+53266,maligniteit cervix,TC101,M13,SC7,DTC334664,36.0,450_3,AC355427,LVPT,Section 4,SC88,Pathology,1.0,2005-10-20 09:00:00,0.0,10.0,3.0,9.0,70243200.0,864000.0,3
+53267,maligniteit cervix,TC101,M13,SC7,DTC334664,36.0,450_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-10-20 09:00:00,0.0,10.0,3.0,9.0,70243200.0,864000.0,3
+54463,maligniteit cervix,TC101,M13,SC7,other,80.0,465_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-10-24 09:00:00,0.0,10.0,0.0,9.0,35251200.0,0.0,3
+55429,maligniteit cervix,TC101,M13,SC7,other,40.0,469_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-10-26 09:00:00,0.0,10.0,2.0,9.0,15724800.0,0.0,3
+55430,maligniteit cervix,TC101,M13,SC7,other,40.0,469_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-10-26 09:00:00,0.0,10.0,2.0,9.0,15724800.0,0.0,3
+55548,maligniteit cervix,TC101,M13,SC7,other,39.0,473_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-10-27 09:00:00,0.0,10.0,3.0,9.0,39312000.0,0.0,3
+55628,Metastasen corpus maligniteit uteri (nno),TC603,M14,SC7,DTC339513,47.0,474_3,AC370701,HAEM,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-10-27 09:00:00,0.0,10.0,3.0,9.0,70761600.0,0.0,3
+55629,Metastasen corpus maligniteit uteri (nno),TC603,M14,SC7,DTC339513,47.0,474_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-10-27 09:00:00,0.0,10.0,3.0,9.0,70761600.0,0.0,3
+55630,Metastasen corpus maligniteit uteri (nno),TC603,M14,SC7,DTC339513,47.0,474_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-10-27 09:00:00,0.0,10.0,3.0,9.0,70761600.0,0.0,3
+55660,maligniteit ovarium | tuba,TC103,M16,SC7,DTC339319,55.0,475_3,AC378607,BLOB,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-10-27 09:00:00,0.0,10.0,3.0,9.0,777600.0,0.0,3
+55661,maligniteit ovarium | tuba,TC103,M16,SC7,DTC339319,55.0,475_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-10-27 09:00:00,0.0,10.0,3.0,9.0,777600.0,0.0,3
+55662,maligniteit ovarium | tuba,TC103,M16,SC7,DTC339319,55.0,475_3,370715A,HAEM,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-10-27 09:00:00,0.0,10.0,3.0,9.0,777600.0,0.0,3
+28457,maligniteit cervix,TC101,M13,SC7,DTC229555,33.0,216_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-10-29 09:00:00,246240.0,10.0,5.0,9.0,67478400.0,14774400.0,3
+42876,maligniteit endometrium,TC101,M14,SC7,DTC333715,43.0,353_3,other,NGIV,Section 5,SC63,Nuclear Medicine,1.0,2005-11-03 09:00:00,0.0,11.0,3.0,9.0,58060800.0,8035200.0,3
+56264,maligniteit cervix,TC803,M13,SC7,DTC343853,60.0,481_3,AC370403,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-11-03 09:00:00,0.0,11.0,3.0,9.0,19958400.0,0.0,3
+56265,maligniteit cervix,TC803,M13,SC7,DTC343853,60.0,481_3,370488J,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-11-03 09:00:00,0.0,11.0,3.0,9.0,19958400.0,0.0,3
+56266,maligniteit cervix,TC803,M13,SC7,DTC343853,60.0,481_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-11-03 09:00:00,0.0,11.0,3.0,9.0,19958400.0,0.0,3
+56339,maligniteit cervix,TC3301,DC822,SC13,DTC345666,61.0,483_3,370403S,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-11-07 09:00:00,0.0,11.0,0.0,9.0,1987200.0,0.0,3
+56340,maligniteit cervix,TC3301,DC822,SC13,DTC345666,61.0,483_3,370443S,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-11-07 09:00:00,0.0,11.0,0.0,9.0,1987200.0,0.0,3
+56341,maligniteit cervix,TC3301,DC822,SC13,DTC345666,61.0,483_3,370423T,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-11-07 09:00:00,0.0,11.0,0.0,9.0,1987200.0,0.0,3
+56368,maligniteit vulva,TC101,M11,SC7,other,81.0,485_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-11-09 09:00:00,0.0,11.0,2.0,9.0,64108800.0,0.0,3
+56369,maligniteit vulva,TC101,M11,SC7,other,81.0,485_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-11-09 09:00:00,0.0,11.0,2.0,9.0,64108800.0,0.0,3
+56408,maligniteit cervix,TC101,M13,SC7,other,44.0,488_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-11-09 09:00:00,0.0,11.0,2.0,9.0,70761600.0,0.0,3
+56409,maligniteit cervix,TC101,M13,SC7,other,44.0,488_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-11-09 09:00:00,0.0,11.0,2.0,9.0,70761600.0,0.0,3
+56790,maligniteit ovarium | tuba,TC101,M16,SC7,other,83.0,491_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-11-09 09:00:00,0.0,11.0,2.0,9.0,38707200.0,0.0,3
+56791,maligniteit ovarium | tuba,TC101,M16,SC7,other,83.0,491_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-11-09 09:00:00,0.0,11.0,2.0,9.0,38707200.0,0.0,3
+56952,maligniteit cervix,TC101,M13,SC7,other,53.0,493_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-11-10 09:00:00,0.0,11.0,3.0,9.0,32054400.0,0.0,3
+56953,maligniteit cervix,TC101,M13,SC7,other,53.0,493_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-11-10 09:00:00,0.0,11.0,3.0,9.0,32054400.0,0.0,3
+40296,maligniteit ovarium | tuba,TC101,M16,SC7,DTC274937,64.0,335_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-11-14 09:00:00,168480.0,11.0,0.0,9.0,70934400.0,10108800.0,3
+57868,maligniteit vulva,TC803,M11,SC7,DTC351086,82.0,496_3,AC370442,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-11-14 09:00:00,0.0,11.0,0.0,9.0,3283200.0,0.0,3
+57869,maligniteit vulva,TC803,M11,SC7,DTC351086,82.0,496_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-11-14 09:00:00,0.0,11.0,0.0,9.0,3283200.0,0.0,3
+57870,maligniteit vulva,TC803,M11,SC7,DTC351086,82.0,496_3,AC370606,BLOB,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-11-14 09:00:00,0.0,11.0,0.0,9.0,3283200.0,0.0,3
+28455,maligniteit cervix,TC101,M13,SC7,DTC229555,33.0,216_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-11-16 09:00:00,0.0,11.0,2.0,9.0,65923200.0,16329600.0,3
+57926,Gynaecologische tumoren,TC61,DC106,SC7,DTC352851,44.0,498_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-11-16 09:00:00,0.0,11.0,2.0,9.0,66355200.0,0.0,3
+57927,Gynaecologische tumoren,TC61,DC106,SC7,DTC352851,44.0,498_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-11-16 09:00:00,0.0,11.0,2.0,9.0,66355200.0,0.0,3
+34972,Gynaecologische tumoren,TC13,DC106,SC7,DTC253037,77.0,275_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-11-17 09:00:00,221760.0,11.0,3.0,9.0,68947200.0,13305600.0,3
+40295,maligniteit ovarium | tuba,TC101,M16,SC7,DTC274937,64.0,335_3,387042A,SRA6,Section 5,SC62,Radiology,1.0,2005-11-18 09:00:00,5760.0,11.0,4.0,9.0,70588800.0,10454400.0,3
+29164,maligniteit vulva,TC101,M11,SC7,DTC233586,73.0,224_3,AC10307,SGAL,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-11-20 09:00:00,267840.0,11.0,6.0,9.0,63763200.0,16070400.0,3
+58173,maligniteit cervix,TC103,M13,SC7,DTC355699,70.0,501_3,339486E,SGEC,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-11-21 09:00:00,0.0,11.0,0.0,9.0,6652800.0,0.0,3
+58174,maligniteit cervix,TC103,M13,SC7,DTC355699,70.0,501_3,370504A,LBAC,Section 4,SC87,Medical Microbiology,1.0,2005-11-21 09:00:00,0.0,11.0,0.0,9.0,6652800.0,0.0,3
+58175,maligniteit cervix,TC103,M13,SC7,DTC355699,70.0,501_3,AC350503,LVPT,Section 4,SC88,Pathology,1.0,2005-11-21 09:00:00,0.0,11.0,0.0,9.0,6652800.0,0.0,3
+58241,maligniteit ovarium | tuba,TC803,M16,SC7,DTC355558,50.0,502_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-11-21 09:00:00,0.0,11.0,0.0,9.0,9936000.0,0.0,3
+58242,maligniteit ovarium | tuba,TC803,M16,SC7,DTC355558,50.0,502_3,370488E,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-11-21 09:00:00,0.0,11.0,0.0,9.0,9936000.0,0.0,3
+58243,maligniteit ovarium | tuba,TC803,M16,SC7,DTC355558,50.0,502_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-11-21 09:00:00,0.0,11.0,0.0,9.0,9936000.0,0.0,3
+58340,maligniteit vulva,TC503,M11,SC7,DTC359445,70.0,504_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-11-24 09:00:00,0.0,11.0,3.0,9.0,48124800.0,0.0,3
+58341,maligniteit vulva,TC503,M11,SC7,DTC359445,70.0,504_3,AC386002,SRA1,Section 5,SC62,Radiology,1.0,2005-11-24 09:00:00,0.0,11.0,3.0,9.0,48124800.0,0.0,3
+58342,maligniteit vulva,TC503,M11,SC7,DTC359445,70.0,504_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-11-24 09:00:00,0.0,11.0,3.0,9.0,48124800.0,0.0,3
+58367,Maligne nieuwvormingen ovarium (nno),TC101,M16,SC7,DTC359799,35.0,505_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-11-24 09:00:00,0.0,11.0,3.0,9.0,68342400.0,0.0,3
+58368,Maligne nieuwvormingen ovarium (nno),TC101,M16,SC7,DTC359799,35.0,505_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-11-24 09:00:00,0.0,11.0,3.0,9.0,68342400.0,0.0,3
+58369,Maligne nieuwvormingen ovarium (nno),TC101,M16,SC7,DTC359799,35.0,505_3,AC410100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-11-24 09:00:00,0.0,11.0,3.0,9.0,68342400.0,0.0,3
+58662,maligniteit cervix,TC101,M13,SC7,DTC373622,35.0,508_3,AC10307,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-11-29 09:00:00,0.0,11.0,1.0,9.0,18835200.0,0.0,3
+27097,maligniteit cervix,TC101,M13,SC7,DTC221377,42.0,202_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-11-30 09:00:00,0.0,11.0,2.0,9.0,32227200.0,18748800.0,3
+27098,maligniteit cervix,TC101,M13,SC7,DTC221377,42.0,202_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-11-30 09:00:00,312480.0,11.0,2.0,9.0,32227200.0,18748800.0,3
+30044,maligniteit endometrium,TC101,M14,SC7,DTC246740,55.0,232_3,AC355427,LVPT,Section 4,SC88,Pathology,1.0,2005-11-30 09:00:00,0.0,11.0,2.0,9.0,64627200.0,16502400.0,3
+30045,maligniteit endometrium,TC101,M14,SC7,DTC246740,55.0,232_3,AC370000,LBAC,Section 4,SC87,Medical Microbiology,1.0,2005-11-30 09:00:00,0.0,11.0,2.0,9.0,64627200.0,16502400.0,3
+43754,maligniteit cervix,TC101,M13,SC7,other,48.0,362_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-11-30 09:00:00,0.0,11.0,2.0,9.0,64627200.0,9417600.0,3
+43755,maligniteit cervix,TC101,M13,SC7,other,48.0,362_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-11-30 09:00:00,156960.0,11.0,2.0,9.0,64627200.0,9417600.0,3
+49134,Gynaecologische tumoren,TC61,DC106,SC7,DTC363167,89.0,391_3,other,CHE1,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-11-30 09:00:00,0.0,11.0,2.0,9.0,72576000.0,7257600.0,3
+49135,Gynaecologische tumoren,TC61,DC106,SC7,DTC363167,89.0,391_3,AC411100,SGAL,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-11-30 09:00:00,0.0,11.0,2.0,9.0,72576000.0,7257600.0,3
+54461,maligniteit cervix,TC101,M13,SC7,other,80.0,465_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-11-30 09:00:00,0.0,11.0,2.0,9.0,32054400.0,3196800.0,3
+54462,maligniteit cervix,TC101,M13,SC7,other,80.0,465_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-11-30 09:00:00,53280.0,11.0,2.0,9.0,32054400.0,3196800.0,3
+58764,maligniteit cervix,TC103,M13,SC7,DTC363510,88.0,509_3,AC356134,LVPT,Section 4,SC88,Pathology,1.0,2005-11-30 09:00:00,0.0,11.0,2.0,9.0,10886400.0,0.0,3
+58765,maligniteit cervix,TC103,M13,SC7,DTC363510,88.0,509_3,AC355111,LVPT,Section 4,SC88,Pathology,1.0,2005-11-30 09:00:00,0.0,11.0,2.0,9.0,10886400.0,0.0,3
+58766,maligniteit cervix,TC103,M13,SC7,DTC363510,88.0,509_3,AC355409,LVPT,Section 4,SC88,Pathology,1.0,2005-11-30 09:00:00,0.0,11.0,2.0,9.0,10886400.0,0.0,3
+58867,Ongediff. adenoca. ovarium st IIIc,TC803,M16,SC7,DTC363618,69.0,511_3,AC370401,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-11-30 09:00:00,0.0,11.0,2.0,9.0,1296000.0,0.0,3
+58868,Ongediff. adenoca. ovarium st IIIc,TC803,M16,SC7,DTC363618,69.0,511_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-11-30 09:00:00,0.0,11.0,2.0,9.0,1296000.0,0.0,3
+58869,Ongediff. adenoca. ovarium st IIIc,TC803,M16,SC7,DTC363618,69.0,511_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-11-30 09:00:00,0.0,11.0,2.0,9.0,1296000.0,0.0,3
+29064,maligniteit cervix,TC61,DC106,SC61,other,53.0,221_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-12-07 09:00:00,0.0,12.0,2.0,9.0,40608000.0,17884800.0,3
+29065,maligniteit cervix,TC61,DC106,SC61,other,53.0,221_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-12-07 09:00:00,298080.0,12.0,2.0,9.0,40608000.0,17884800.0,3
+52023,maligniteit vulva,TC101,M11,SC7,DTC368248,52.0,434_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-12-07 09:00:00,0.0,12.0,2.0,9.0,69465600.0,5961600.0,3
+52024,maligniteit vulva,TC101,M11,SC7,DTC368248,52.0,434_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-12-07 09:00:00,99360.0,12.0,2.0,9.0,69465600.0,5961600.0,3
+43747,maligniteit cervix,TC101,M13,SC7,other,67.0,361_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-12-14 09:00:00,0.0,12.0,2.0,9.0,0.0,10800000.0,3
+43748,maligniteit cervix,TC101,M13,SC7,other,67.0,361_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-12-14 09:00:00,180000.0,12.0,2.0,9.0,0.0,10800000.0,3
+58660,maligniteit cervix,TC101,M13,SC7,DTC373622,35.0,508_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-12-14 09:00:00,0.0,12.0,2.0,9.0,17539200.0,1296000.0,3
+58661,maligniteit cervix,TC101,M13,SC7,DTC373622,35.0,508_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-12-14 09:00:00,21600.0,12.0,2.0,9.0,17539200.0,1296000.0,3
+63028,Maligne neoplasma cervix uteri,TC113,DC822,SC61,DTC383467,48.0,525_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-12-14 09:00:00,0.0,12.0,2.0,9.0,63504000.0,0.0,3
+63029,Maligne neoplasma cervix uteri,TC113,DC822,SC61,DTC383467,48.0,525_3,AC410100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-12-14 09:00:00,0.0,12.0,2.0,9.0,63504000.0,0.0,3
+63030,Maligne neoplasma cervix uteri,TC113,DC822,SC61,DTC383467,48.0,525_3,AC10107,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-12-14 09:00:00,0.0,12.0,2.0,9.0,63504000.0,0.0,3
+63625,Maligne neoplasma cervix uteri,TC61,DC106,SC61,DTC392802,38.0,526_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-12-14 09:00:00,0.0,12.0,2.0,9.0,56332800.0,0.0,3
+63626,Maligne neoplasma cervix uteri,TC61,DC106,SC61,DTC392802,38.0,526_3,370488G,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-12-14 09:00:00,0.0,12.0,2.0,9.0,56332800.0,0.0,3
+63627,Maligne neoplasma cervix uteri,TC61,DC106,SC61,DTC392802,38.0,526_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-12-14 09:00:00,0.0,12.0,2.0,9.0,56332800.0,0.0,3
+63664,maligniteit endometrium,TC101,M14,SC7,other,79.0,528_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-12-19 09:00:00,0.0,12.0,0.0,9.0,65577600.0,0.0,3
+8198,maligniteit vulva,TC101,M11,SC7,other,84.0,61_3,AC415100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2005-12-21 09:00:00,262080.0,12.0,2.0,9.0,0.0,26956800.0,3
+64138,maligniteit cervix,TC803,M13,SC7,DTC379572,55.0,531_3,370407.0,HAEM,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-12-21 09:00:00,0.0,12.0,2.0,9.0,69552000.0,0.0,3
+64139,maligniteit cervix,TC803,M13,SC7,DTC379572,55.0,531_3,370488G,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-12-21 09:00:00,0.0,12.0,2.0,9.0,69552000.0,0.0,3
+64140,maligniteit cervix,TC803,M13,SC7,DTC379572,55.0,531_3,370488E,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-12-21 09:00:00,0.0,12.0,2.0,9.0,69552000.0,0.0,3
+65031,maligniteit cervix,TC113,M13,SC61,DTC393928,62.0,533_3,370401S,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-12-23 09:00:00,0.0,12.0,4.0,9.0,8726400.0,0.0,3
+65032,maligniteit cervix,TC113,M13,SC61,DTC393928,62.0,533_3,370488T,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-12-23 09:00:00,0.0,12.0,4.0,9.0,8726400.0,0.0,3
+65033,maligniteit cervix,TC113,M13,SC61,DTC393928,62.0,533_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-12-23 09:00:00,0.0,12.0,4.0,9.0,8726400.0,0.0,3
+67483,maligniteit vagina,TC113,M12,SC7,DTC385086,63.0,538_3,330001B,PLAB,Section 4,SC20,General Lab Clinical Chemistry,1.0,2005-12-30 09:00:00,0.0,12.0,4.0,9.0,59097600.0,0.0,3
+67484,maligniteit vagina,TC113,M12,SC7,DTC385086,63.0,538_3,370401C,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-12-30 09:00:00,0.0,12.0,4.0,9.0,59097600.0,0.0,3
+67485,maligniteit vagina,TC113,M12,SC7,DTC385086,63.0,538_3,AC370442,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2005-12-30 09:00:00,0.0,12.0,4.0,9.0,59097600.0,0.0,3
+67828,maligniteit cervix,TC103,M13,SC61,DTC386013,36.0,539_3,AC419100,SIOG,Section 1,SC13,Internal Specialisms clinic,1.0,2006-01-02 09:00:00,0.0,1.0,0.0,9.0,31104000.0,0.0,3
+67829,maligniteit cervix,TC103,M13,SC61,DTC386013,36.0,539_3,AC410100,SIOG,Section 1,SC13,Internal Specialisms clinic,1.0,2006-01-02 09:00:00,0.0,1.0,0.0,9.0,31104000.0,0.0,3
+69447,Maligne neoplasma cervix uteri,TC3101,DC822,SC61,DTC392898,41.0,543_3,AC370423,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-01-04 09:00:00,0.0,1.0,2.0,9.0,55728000.0,0.0,3
+69448,Maligne neoplasma cervix uteri,TC3101,DC822,SC61,DTC392898,41.0,543_3,370488G,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-01-04 09:00:00,0.0,1.0,2.0,9.0,55728000.0,0.0,3
+69449,Maligne neoplasma cervix uteri,TC3101,DC822,SC61,DTC392898,41.0,543_3,370488E,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-01-04 09:00:00,0.0,1.0,2.0,9.0,55728000.0,0.0,3
+69479,maligniteit cervix,TC61,DC106,SC61,other,68.0,545_3,AC411100,SRTH,Section 5,SC61,Radiotherapy,1.0,2006-01-05 09:00:00,0.0,1.0,3.0,9.0,25920000.0,0.0,3
+69698,Plav.celcarc. vulva: st I,TC803,M11,SC7,DTC394833,74.0,548_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-01-11 09:00:00,0.0,1.0,2.0,9.0,65836800.0,0.0,3
+69699,Plav.celcarc. vulva: st I,TC803,M11,SC7,DTC394833,74.0,548_3,370488G,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-01-11 09:00:00,0.0,1.0,2.0,9.0,65836800.0,0.0,3
+69700,Plav.celcarc. vulva: st I,TC803,M11,SC7,DTC394833,74.0,548_3,370401C,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-01-11 09:00:00,0.0,1.0,2.0,9.0,65836800.0,0.0,3
+70250,Gynaecologische tumoren,TC13,DC106,SC7,DTC394447,68.0,549_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-01-11 09:00:00,0.0,1.0,2.0,9.0,68256000.0,0.0,3
+70251,Gynaecologische tumoren,TC13,DC106,SC7,DTC394447,68.0,549_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-01-11 09:00:00,0.0,1.0,2.0,9.0,68256000.0,0.0,3
+70252,Gynaecologische tumoren,TC13,DC106,SC7,DTC394447,68.0,549_3,AC356134,LVPT,Section 4,SC88,Pathology,1.0,2006-01-11 09:00:00,0.0,1.0,2.0,9.0,68256000.0,0.0,3
+70472,maligniteit endometrium,TC101,M14,SC7,other,74.0,552_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-01-11 09:00:00,0.0,1.0,2.0,9.0,25401600.0,0.0,3
+70473,maligniteit endometrium,TC101,M14,SC7,other,74.0,552_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-01-11 09:00:00,0.0,1.0,2.0,9.0,25401600.0,0.0,3
+70641,maligniteit ovarium | tuba,TC101,M16,SC7,DTC395261,81.0,555_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-01-12 09:00:00,0.0,1.0,3.0,9.0,0.0,0.0,3
+70642,maligniteit ovarium | tuba,TC101,M16,SC7,DTC395261,81.0,555_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-01-12 09:00:00,0.0,1.0,3.0,9.0,0.0,0.0,3
+70643,maligniteit ovarium | tuba,TC101,M16,SC7,DTC395261,81.0,555_3,370401C,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-01-12 09:00:00,0.0,1.0,3.0,9.0,0.0,0.0,3
+70862,maligniteit cervix,TC101,M13,SC61,DTC575145,91.0,558_3,AC419100,SRTH,Section 5,SC61,Radiotherapy,1.0,2006-01-16 09:00:00,0.0,1.0,0.0,9.0,21168000.0,0.0,3
+70863,maligniteit cervix,TC101,M13,SC61,DTC575145,91.0,558_3,AC410100,SRTH,Section 5,SC61,Radiotherapy,1.0,2006-01-16 09:00:00,0.0,1.0,0.0,9.0,21168000.0,0.0,3
+71139,Maligne neoplasma cervix uteri,TC113,DC822,SC61,DTC438856,46.0,559_3,AC370419,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-01-16 09:00:00,0.0,1.0,0.0,9.0,35251200.0,0.0,3
+71140,Maligne neoplasma cervix uteri,TC113,DC822,SC61,DTC438856,46.0,559_3,370488J,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-01-16 09:00:00,0.0,1.0,0.0,9.0,35251200.0,0.0,3
+71141,Maligne neoplasma cervix uteri,TC113,DC822,SC61,DTC438856,46.0,559_3,370488G,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-01-16 09:00:00,0.0,1.0,0.0,9.0,35251200.0,0.0,3
+71346,maligniteit cervix,TC803,M13,SC7,DTC399410,41.0,560_3,370407.0,HAEM,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-01-18 09:00:00,0.0,1.0,2.0,9.0,19180800.0,0.0,3
+71347,maligniteit cervix,TC803,M13,SC7,DTC399410,41.0,560_3,AC370604,BLOB,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-01-18 09:00:00,0.0,1.0,2.0,9.0,19180800.0,0.0,3
+71348,maligniteit cervix,TC803,M13,SC7,DTC399410,41.0,560_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-01-18 09:00:00,0.0,1.0,2.0,9.0,19180800.0,0.0,3
+71385,maligniteit cervix,TC101,M13,SC7,DTC398986,38.0,561_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-01-18 09:00:00,0.0,1.0,2.0,9.0,33868800.0,0.0,3
+72159,maligniteit myometrium,TC803,M15,SC61,DTC574624,63.0,565_3,AC370401,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-01-18 09:00:00,0.0,1.0,2.0,9.0,23587200.0,0.0,3
+72160,maligniteit myometrium,TC803,M15,SC61,DTC574624,63.0,565_3,AC370604,BLOB,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-01-18 09:00:00,0.0,1.0,2.0,9.0,23587200.0,0.0,3
+72161,maligniteit myometrium,TC803,M15,SC61,DTC574624,63.0,565_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-01-18 09:00:00,0.0,1.0,2.0,9.0,23587200.0,0.0,3
+72198,maligniteit cervix,TC101,M13,SC7,other,40.0,567_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-01-19 09:00:00,0.0,1.0,3.0,9.0,65923200.0,0.0,3
+72199,maligniteit cervix,TC101,M13,SC7,other,40.0,567_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-01-19 09:00:00,0.0,1.0,3.0,9.0,65923200.0,0.0,3
+72206,Gynaecologische tumoren,TC61,DC106,SC7,other,59.0,568_3,AC411100,SRTH,Section 5,SC61,Radiotherapy,1.0,2006-01-19 09:00:00,0.0,1.0,3.0,9.0,56332800.0,0.0,3
+72249,maligniteit ovarium | tuba,TC101,M16,SC7,DTC400130,46.0,570_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-01-19 09:00:00,0.0,1.0,3.0,9.0,60480000.0,0.0,3
+72250,maligniteit ovarium | tuba,TC101,M16,SC7,DTC400130,46.0,570_3,370488J,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-01-19 09:00:00,0.0,1.0,3.0,9.0,60480000.0,0.0,3
+72251,maligniteit ovarium | tuba,TC101,M16,SC7,DTC400130,46.0,570_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-01-19 09:00:00,0.0,1.0,3.0,9.0,60480000.0,0.0,3
+70860,maligniteit cervix,TC101,M13,SC61,DTC575145,91.0,558_3,AC410100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-01-25 09:00:00,0.0,1.0,2.0,9.0,20390400.0,777600.0,3
+72886,maligniteit cervix,TC101,M13,SC7,other,38.0,573_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-01-25 09:00:00,0.0,1.0,2.0,9.0,64627200.0,0.0,3
+72887,maligniteit cervix,TC101,M13,SC7,other,38.0,573_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-01-25 09:00:00,0.0,1.0,2.0,9.0,64627200.0,0.0,3
+39107,maligniteit vulva,TC101,M11,SC7,other,73.0,331_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-02-01 09:00:00,0.0,2.0,2.0,9.0,54432000.0,16934400.0,3
+39108,maligniteit vulva,TC101,M11,SC7,other,73.0,331_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-02-01 09:00:00,282240.0,2.0,2.0,9.0,54432000.0,16934400.0,3
+73894,maligniteit vulva,TC101,M11,SC7,other,81.0,583_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-02-01 09:00:00,0.0,2.0,2.0,9.0,37497600.0,0.0,3
+73895,maligniteit vulva,TC101,M11,SC7,other,81.0,583_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-02-01 09:00:00,0.0,2.0,2.0,9.0,37497600.0,0.0,3
+74412,maligniteit ovarium | tuba,TC101,M16,SC7,DTC406503,34.0,587_3,372440A,SLVE,Section 4,SC86,Special lab radiology,1.0,2006-02-01 09:00:00,0.0,2.0,2.0,9.0,54432000.0,0.0,3
+74413,maligniteit ovarium | tuba,TC101,M16,SC7,DTC406503,34.0,587_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-02-01 09:00:00,0.0,2.0,2.0,9.0,54432000.0,0.0,3
+74414,maligniteit ovarium | tuba,TC101,M16,SC7,DTC406503,34.0,587_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-02-01 09:00:00,0.0,2.0,2.0,9.0,54432000.0,0.0,3
+3019,Gynaecologische tumoren,TC61,DC106,SC7,other,79.0,16_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-02-08 09:00:00,0.0,2.0,2.0,9.0,18230400.0,33868800.0,3
+75119,Maligne nieuwvormingen corpus uteri (ov),TC13,DC106,SC61,DTC574868,83.0,592_3,AC419100,SGAL,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-02-08 09:00:00,0.0,2.0,2.0,9.0,4406400.0,0.0,3
+75120,Maligne nieuwvormingen corpus uteri (ov),TC13,DC106,SC61,DTC574868,83.0,592_3,AC410100,SGAL,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-02-08 09:00:00,0.0,2.0,2.0,9.0,4406400.0,0.0,3
+67827,maligniteit cervix,TC103,M13,SC61,DTC386013,36.0,539_3,AC411100,SIOG,Section 1,SC13,Internal Specialisms clinic,1.0,2006-02-13 09:00:00,60480.0,2.0,0.0,9.0,27475200.0,3628800.0,3
+75855,Plav.celcarc. vulva: st IVa,TC113,M11,SC61,DTC434512,82.0,596_3,370488J,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-02-13 09:00:00,0.0,2.0,0.0,9.0,8726400.0,0.0,3
+75856,Plav.celcarc. vulva: st IVa,TC113,M11,SC61,DTC434512,82.0,596_3,AC370604,BLOB,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-02-13 09:00:00,0.0,2.0,0.0,9.0,8726400.0,0.0,3
+75857,Plav.celcarc. vulva: st IVa,TC113,M11,SC61,DTC434512,82.0,596_3,AC370419,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-02-13 09:00:00,0.0,2.0,0.0,9.0,8726400.0,0.0,3
+76148,maligniteit ovarium | tuba,TC803,M16,SC7,DTC416155,76.0,597_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-02-13 09:00:00,0.0,2.0,0.0,9.0,24537600.0,0.0,3
+76149,maligniteit ovarium | tuba,TC803,M16,SC7,DTC416155,76.0,597_3,AC370604,BLOB,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-02-13 09:00:00,0.0,2.0,0.0,9.0,24537600.0,0.0,3
+76150,maligniteit ovarium | tuba,TC803,M16,SC7,DTC416155,76.0,597_3,AC370401,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-02-13 09:00:00,0.0,2.0,0.0,9.0,24537600.0,0.0,3
+75090,Maligne nieuwvormingen corpus uteri (ov),TC13,DC106,SC61,DTC574868,83.0,592_3,370407.0,HAEM,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-02-15 09:00:00,0.0,2.0,2.0,9.0,3801600.0,604800.0,3
+76285,Plaveiselcelcarinoom vulva (nno),TC103,M11,SC7,DTC405039,74.0,600_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-02-15 09:00:00,0.0,2.0,2.0,9.0,58060800.0,0.0,3
+76286,Plaveiselcelcarinoom vulva (nno),TC103,M11,SC7,DTC405039,74.0,600_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-02-15 09:00:00,0.0,2.0,2.0,9.0,58060800.0,0.0,3
+76287,Plaveiselcelcarinoom vulva (nno),TC103,M11,SC7,DTC405039,74.0,600_3,AC370604,BLOB,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-02-15 09:00:00,0.0,2.0,2.0,9.0,58060800.0,0.0,3
+76318,maligniteit cervix,TC101,M13,SC7,other,51.0,605_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-02-16 09:00:00,0.0,2.0,3.0,9.0,7257600.0,0.0,3
+76319,maligniteit cervix,TC101,M13,SC7,other,51.0,605_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-02-16 09:00:00,0.0,2.0,3.0,9.0,7257600.0,0.0,3
+76604,Gynaecologische tumoren,TC61,DC106,SC7,DTC418694,62.0,607_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-02-16 09:00:00,0.0,2.0,3.0,9.0,61084800.0,0.0,3
+76605,Gynaecologische tumoren,TC61,DC106,SC7,DTC418694,62.0,607_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-02-16 09:00:00,0.0,2.0,3.0,9.0,61084800.0,0.0,3
+76618,maligniteit vulva,TC101,M11,SC7,other,68.0,609_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-02-23 09:00:00,0.0,2.0,3.0,9.0,53568000.0,0.0,3
+76619,maligniteit vulva,TC101,M11,SC7,other,68.0,609_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-02-23 09:00:00,0.0,2.0,3.0,9.0,53568000.0,0.0,3
+76719,maligniteit vulva,TC803,M11,SC7,DTC423382,84.0,610_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-02-23 09:00:00,0.0,2.0,3.0,9.0,29548800.0,0.0,3
+76720,maligniteit vulva,TC803,M11,SC7,DTC423382,84.0,610_3,370407.0,HAEM,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-02-23 09:00:00,0.0,2.0,3.0,9.0,29548800.0,0.0,3
+76721,maligniteit vulva,TC803,M11,SC7,DTC423382,84.0,610_3,AC370443,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-02-23 09:00:00,0.0,2.0,3.0,9.0,29548800.0,0.0,3
+76749,maligniteit cervix,TC101,M13,SC7,other,38.0,611_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-02-23 09:00:00,0.0,2.0,3.0,9.0,33264000.0,0.0,3
+76750,maligniteit cervix,TC101,M13,SC7,other,38.0,611_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-02-23 09:00:00,0.0,2.0,3.0,9.0,33264000.0,0.0,3
+76753,maligniteit cervix,TC101,M13,SC7,other,42.0,612_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-02-23 09:00:00,0.0,2.0,3.0,9.0,34473600.0,0.0,3
+76754,maligniteit cervix,TC101,M13,SC7,other,42.0,612_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-02-23 09:00:00,0.0,2.0,3.0,9.0,34473600.0,0.0,3
+76761,maligniteit endometrium,TC101,M14,SC7,DTC423064,59.0,613_3,378619A,CHE1,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-02-23 09:00:00,0.0,2.0,3.0,9.0,54345600.0,0.0,3
+76762,maligniteit endometrium,TC101,M14,SC7,DTC423064,59.0,613_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-02-23 09:00:00,0.0,2.0,3.0,9.0,54345600.0,0.0,3
+76763,maligniteit endometrium,TC101,M14,SC7,DTC423064,59.0,613_3,377498A,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-02-23 09:00:00,0.0,2.0,3.0,9.0,54345600.0,0.0,3
+77077,maligniteit cervix,TC113,M13,SC7,DTC427950,52.0,618_3,AC378607,BLOB,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-03-02 09:00:00,0.0,3.0,3.0,9.0,604800.0,0.0,3
+77078,maligniteit cervix,TC113,M13,SC7,DTC427950,52.0,618_3,370401C,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-03-02 09:00:00,0.0,3.0,3.0,9.0,604800.0,0.0,3
+77079,maligniteit cervix,TC113,M13,SC7,DTC427950,52.0,618_3,AC370401,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-03-02 09:00:00,0.0,3.0,3.0,9.0,604800.0,0.0,3
+78025,Maligne neoplasma cervix uteri,TC61,DC822,SC61,DTC443333,41.0,622_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-03-07 09:00:00,0.0,3.0,1.0,9.0,63763200.0,0.0,3
+78026,Maligne neoplasma cervix uteri,TC61,DC822,SC61,DTC443333,41.0,622_3,AC410100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-03-07 09:00:00,0.0,3.0,1.0,9.0,63763200.0,0.0,3
+77999,Maligne neoplasma cervix uteri,TC61,DC822,SC61,DTC443333,41.0,622_3,AC370403,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-03-08 09:00:00,0.0,3.0,2.0,9.0,63676800.0,86400.0,3
+79514,maligniteit endometrium,TC703,M14,SC7,DTC431739,65.0,626_3,AC370402,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-03-08 09:00:00,0.0,3.0,2.0,9.0,3542400.0,0.0,3
+79515,maligniteit endometrium,TC703,M14,SC7,DTC431739,65.0,626_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-03-08 09:00:00,0.0,3.0,2.0,9.0,3542400.0,0.0,3
+79516,maligniteit endometrium,TC703,M14,SC7,DTC431739,65.0,626_3,AC370401,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-03-08 09:00:00,0.0,3.0,2.0,9.0,3542400.0,0.0,3
+80348,maligniteit vagina,TC103,M12,SC7,DTC475355,85.0,631_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-03-13 09:00:00,0.0,3.0,0.0,9.0,7344000.0,0.0,3
+80833,Gynaecologische tumoren,TC23,DC106,SC61,DTC785440,78.0,636_3,AC410100,SGAL,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-03-14 09:00:00,0.0,3.0,1.0,9.0,53395200.0,0.0,3
+80834,Gynaecologische tumoren,TC23,DC106,SC61,DTC785440,78.0,636_3,AC356134,LVPT,Section 4,SC88,Pathology,1.0,2006-03-14 09:00:00,0.0,3.0,1.0,9.0,53395200.0,0.0,3
+80835,Gynaecologische tumoren,TC23,DC106,SC61,DTC785440,78.0,636_3,AC355201,LVPT,Section 4,SC88,Pathology,1.0,2006-03-14 09:00:00,0.0,3.0,1.0,9.0,53395200.0,0.0,3
+80915,maligniteit vulva,TC603,M11,SC61,DTC575456,79.0,637_3,370407.0,HAEM,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-03-15 09:00:00,0.0,3.0,2.0,9.0,17712000.0,0.0,3
+80916,maligniteit vulva,TC603,M11,SC61,DTC575456,79.0,637_3,AC370443,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-03-15 09:00:00,0.0,3.0,2.0,9.0,17712000.0,0.0,3
+80917,maligniteit vulva,TC603,M11,SC61,DTC575456,79.0,637_3,AC370442,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-03-15 09:00:00,0.0,3.0,2.0,9.0,17712000.0,0.0,3
+80978,maligniteit cervix,TC101,DC106,SC7,other,74.0,641_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-03-15 09:00:00,0.0,3.0,2.0,9.0,63417600.0,0.0,3
+80321,maligniteit vagina,TC103,M12,SC7,DTC475355,85.0,631_3,AC370419,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-03-16 09:00:00,0.0,3.0,3.0,9.0,7084800.0,259200.0,3
+80322,maligniteit vagina,TC103,M12,SC7,DTC475355,85.0,631_3,AC370443,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-03-16 09:00:00,0.0,3.0,3.0,9.0,7084800.0,259200.0,3
+82039,maligniteit vagina,TC101,M12,SC7,DTC440812,82.0,648_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-03-22 09:00:00,0.0,3.0,2.0,9.0,0.0,0.0,3
+82040,maligniteit vagina,TC101,M12,SC7,DTC440812,82.0,648_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-03-22 09:00:00,0.0,3.0,2.0,9.0,0.0,0.0,3
+82041,maligniteit vagina,TC101,M12,SC7,DTC440812,82.0,648_3,AC410100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-03-22 09:00:00,0.0,3.0,2.0,9.0,0.0,0.0,3
+82075,maligniteit cervix,TC61,DC106,SC61,other,42.0,650_3,AC415100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-03-22 09:00:00,0.0,3.0,2.0,9.0,23673600.0,0.0,3
+82202,maligniteit myometrium,TC101,M15,SC7,other,63.0,652_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-03-22 09:00:00,0.0,3.0,2.0,9.0,32054400.0,0.0,3
+4905,maligniteit ovarium | tuba,TC101,M16,SC7,other,63.0,28_3,AC411100,SGAL,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-03-23 09:00:00,0.0,3.0,3.0,9.0,2419200.0,36979200.0,3
+23469,Gynaecologische tumoren,TC61,DC106,SC7,DTC205671,46.0,158_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-04-05 09:00:00,0.0,4.0,2.0,9.0,19180800.0,31622400.0,3
+83671,"Plaveiselcelca, cervix st Ia2",TC803,M13,SC7,DTC549744,40.0,668_3,AC419100,SGAL,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-04-05 09:00:00,0.0,4.0,2.0,9.0,47174400.0,0.0,3
+83672,"Plaveiselcelca, cervix st Ia2",TC803,M13,SC7,DTC549744,40.0,668_3,AC411100,SGAL,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-04-05 09:00:00,0.0,4.0,2.0,9.0,47174400.0,0.0,3
+83673,"Plaveiselcelca, cervix st Ia2",TC803,M13,SC7,DTC549744,40.0,668_3,AC355201,LVPT,Section 4,SC88,Pathology,1.0,2006-04-05 09:00:00,0.0,4.0,2.0,9.0,47174400.0,0.0,3
+84132,Sereus adenoca: ovarium st IIIc,TC803,M16,SC7,DTC450231,75.0,670_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-04-05 09:00:00,0.0,4.0,2.0,9.0,3283200.0,0.0,3
+84133,Sereus adenoca: ovarium st IIIc,TC803,M16,SC7,DTC450231,75.0,670_3,370488J,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-04-05 09:00:00,0.0,4.0,2.0,9.0,3283200.0,0.0,3
+84134,Sereus adenoca: ovarium st IIIc,TC803,M16,SC7,DTC450231,75.0,670_3,AC370401,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-04-05 09:00:00,0.0,4.0,2.0,9.0,3283200.0,0.0,3
+84221,Recidieven corpus maligniteit uteri (nno),TC803,M14,SC7,DTC451132,63.0,671_3,AC379999,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-04-06 09:00:00,0.0,4.0,3.0,9.0,58060800.0,0.0,3
+84222,Recidieven corpus maligniteit uteri (nno),TC803,M14,SC7,DTC451132,63.0,671_3,376400.0,CHE1,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-04-06 09:00:00,0.0,4.0,3.0,9.0,58060800.0,0.0,3
+84223,Recidieven corpus maligniteit uteri (nno),TC803,M14,SC7,DTC451132,63.0,671_3,378619A,CHE1,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-04-06 09:00:00,0.0,4.0,3.0,9.0,58060800.0,0.0,3
+23553,maligniteit cervix,TC101,M13,SC7,other,39.0,162_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-04-12 09:00:00,0.0,4.0,2.0,9.0,32054400.0,32054400.0,3
+37221,maligniteit vulva,TC101,M11,SC7,other,84.0,305_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-04-12 09:00:00,0.0,4.0,2.0,9.0,0.0,24192000.0,3
+37222,maligniteit vulva,TC101,M11,SC7,other,84.0,305_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-04-12 09:00:00,403200.0,4.0,2.0,9.0,0.0,24192000.0,3
+69477,maligniteit cervix,TC61,DC106,SC61,other,68.0,545_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-04-12 09:00:00,0.0,4.0,2.0,9.0,17539200.0,8380800.0,3
+69478,maligniteit cervix,TC61,DC106,SC61,other,68.0,545_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-04-12 09:00:00,139680.0,4.0,2.0,9.0,17539200.0,8380800.0,3
+70471,maligniteit endometrium,TC101,M14,SC7,other,74.0,552_3,AC415100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-04-12 09:00:00,131040.0,4.0,2.0,9.0,17539200.0,7862400.0,3
+85007,Gynaecologische tumoren,TC61,DC106,SC7,other,72.0,677_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-04-12 09:00:00,0.0,4.0,2.0,9.0,43545600.0,0.0,3
+85008,Gynaecologische tumoren,TC61,DC106,SC7,other,72.0,677_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-04-12 09:00:00,0.0,4.0,2.0,9.0,43545600.0,0.0,3
+85515,Maligne neoplasma ovarium,TC3101,DC821,SC13,DTC464275,61.0,678_3,AC370419,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-04-12 09:00:00,0.0,4.0,2.0,9.0,60307200.0,0.0,3
+85516,Maligne neoplasma ovarium,TC3101,DC821,SC13,DTC464275,61.0,678_3,370488J,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-04-12 09:00:00,0.0,4.0,2.0,9.0,60307200.0,0.0,3
+85517,Maligne neoplasma ovarium,TC3101,DC821,SC13,DTC464275,61.0,678_3,370488G,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-04-12 09:00:00,0.0,4.0,2.0,9.0,60307200.0,0.0,3
+85658,maligniteit ovarium | tuba,TC803,M16,SC7,DTC456784,68.0,680_3,AC370401,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-04-13 09:00:00,0.0,4.0,3.0,9.0,2419200.0,0.0,3
+85659,maligniteit ovarium | tuba,TC803,M16,SC7,DTC456784,68.0,680_3,370488J,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-04-13 09:00:00,0.0,4.0,3.0,9.0,2419200.0,0.0,3
+85660,maligniteit ovarium | tuba,TC803,M16,SC7,DTC456784,68.0,680_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-04-13 09:00:00,0.0,4.0,3.0,9.0,2419200.0,0.0,3
+24236,Gynaecologische tumoren,TC61,DC106,SC7,other,71.0,174_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-04-19 09:00:00,0.0,4.0,2.0,9.0,16416000.0,32054400.0,3
+85842,maligniteit vulva,TC101,M11,SC7,other,62.0,682_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-04-19 09:00:00,0.0,4.0,2.0,9.0,50198400.0,0.0,3
+86257,maligniteit ovarium | tuba,TC102,M16,SC7,DTC458989,27.0,687_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-04-19 09:00:00,0.0,4.0,2.0,9.0,49593600.0,0.0,3
+86258,maligniteit ovarium | tuba,TC102,M16,SC7,DTC458989,27.0,687_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-04-19 09:00:00,0.0,4.0,2.0,9.0,49593600.0,0.0,3
+55428,maligniteit cervix,TC101,M13,SC7,other,40.0,469_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-04-26 09:00:00,262080.0,4.0,2.0,9.0,0.0,15724800.0,3
+86307,maligniteit myometrium,TC101,M15,SC7,other,58.0,690_3,AC411100,SGAL,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-04-27 09:00:00,0.0,4.0,3.0,9.0,49507200.0,0.0,3
+86308,maligniteit myometrium,TC101,M15,SC7,other,58.0,690_3,AC419100,SGAL,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-04-27 09:00:00,0.0,4.0,3.0,9.0,49507200.0,0.0,3
+86249,maligniteit ovarium | tuba,TC102,M16,SC7,DTC458989,27.0,687_3,AC40016,H3ZU,Section 2,SC7,Maternity ward,1.0,2006-05-03 09:00:00,0.0,5.0,2.0,9.0,48384000.0,1209600.0,3
+86893,maligniteit ovarium | tuba,TC101,M16,SC7,DTC470100,65.0,695_3,378453A,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-05-04 09:00:00,0.0,5.0,3.0,9.0,6739200.0,0.0,3
+86894,maligniteit ovarium | tuba,TC101,M16,SC7,DTC470100,65.0,695_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-05-04 09:00:00,0.0,5.0,3.0,9.0,6739200.0,0.0,3
+86895,maligniteit ovarium | tuba,TC101,M16,SC7,DTC470100,65.0,695_3,AC372417,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-05-04 09:00:00,0.0,5.0,3.0,9.0,6739200.0,0.0,3
+27197,Gynaecologische tumoren,TC61,DC106,SC7,DTC226309,50.0,207_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-05-10 09:00:00,0.0,5.0,2.0,9.0,16761600.0,32054400.0,3
+87243,maligniteit vulva,TC101,M11,SC7,DTC473750,86.0,700_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-05-10 09:00:00,0.0,5.0,2.0,9.0,48988800.0,0.0,3
+87244,maligniteit vulva,TC101,M11,SC7,DTC473750,86.0,700_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-05-10 09:00:00,0.0,5.0,2.0,9.0,48988800.0,0.0,3
+76317,maligniteit cervix,TC101,M13,SC7,other,51.0,605_3,AC415100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-05-11 09:00:00,120960.0,5.0,3.0,9.0,0.0,7257600.0,3
+88133,Maligne neoplasma cervix uteri,TC113,DC822,SC61,DTC491400,59.0,711_3,AC370401,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-05-17 09:00:00,0.0,5.0,2.0,9.0,39744000.0,0.0,3
+88134,Maligne neoplasma cervix uteri,TC113,DC822,SC61,DTC491400,59.0,711_3,370488J,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-05-17 09:00:00,0.0,5.0,2.0,9.0,39744000.0,0.0,3
+88135,Maligne neoplasma cervix uteri,TC113,DC822,SC61,DTC491400,59.0,711_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-05-17 09:00:00,0.0,5.0,2.0,9.0,39744000.0,0.0,3
+88349,"Plaveiselcelca, cervix st Ia1",TC603,M13,SC7,DTC481124,41.0,716_3,AC419100,SGAL,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-05-19 09:00:00,0.0,5.0,4.0,9.0,28166400.0,0.0,3
+88350,"Plaveiselcelca, cervix st Ia1",TC603,M13,SC7,DTC481124,41.0,716_3,AC410100,SGAL,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-05-19 09:00:00,0.0,5.0,4.0,9.0,28166400.0,0.0,3
+88351,"Plaveiselcelca, cervix st Ia1",TC603,M13,SC7,DTC481124,41.0,716_3,AC356134,LVPT,Section 4,SC88,Pathology,1.0,2006-05-19 09:00:00,0.0,5.0,4.0,9.0,28166400.0,0.0,3
+88734,Gynaecologische tumoren,TC603,DC106,SC61,DTC785367,68.0,720_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-05-24 09:00:00,0.0,5.0,2.0,9.0,53913600.0,0.0,3
+88735,Gynaecologische tumoren,TC603,DC106,SC61,DTC785367,68.0,720_3,AC410100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-05-24 09:00:00,0.0,5.0,2.0,9.0,53913600.0,0.0,3
+88736,Gynaecologische tumoren,TC603,DC106,SC61,DTC785367,68.0,720_3,AC355111,LVPT,Section 4,SC88,Pathology,1.0,2006-05-24 09:00:00,0.0,5.0,2.0,9.0,53913600.0,0.0,3
+89282,Maligne neoplasma cervix uteri,TC3201,M13,SC61,DTC500735,80.0,723_3,330001B,PLAB,Section 4,SC20,General Lab Clinical Chemistry,1.0,2006-05-29 09:00:00,0.0,5.0,0.0,9.0,19612800.0,0.0,3
+89283,Maligne neoplasma cervix uteri,TC3201,M13,SC61,DTC500735,80.0,723_3,370488E,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-05-29 09:00:00,0.0,5.0,0.0,9.0,19612800.0,0.0,3
+89284,Maligne neoplasma cervix uteri,TC3201,M13,SC61,DTC500735,80.0,723_3,AC355111,LVPT,Section 4,SC88,Pathology,1.0,2006-05-29 09:00:00,0.0,5.0,0.0,9.0,19612800.0,0.0,3
+89993,"Plaveiselcelca, cervix st Ib",TC503,M13,SC7,DTC543244,35.0,726_3,AC356134,LVPT,Section 4,SC88,Pathology,1.0,2006-06-02 09:00:00,0.0,6.0,4.0,9.0,5356800.0,0.0,3
+89994,"Plaveiselcelca, cervix st Ib",TC503,M13,SC7,DTC543244,35.0,726_3,AC419100,SGAL,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-06-02 09:00:00,0.0,6.0,4.0,9.0,5356800.0,0.0,3
+89995,"Plaveiselcelca, cervix st Ib",TC503,M13,SC7,DTC543244,35.0,726_3,AC410100,SGAL,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-06-02 09:00:00,0.0,6.0,4.0,9.0,5356800.0,0.0,3
+90009,Adenoca: corpus uteri st Ic,TC23,DC106,SC61,DTC575385,68.0,727_3,AC410100,SRTH,Section 5,SC61,Radiotherapy,1.0,2006-06-02 09:00:00,0.0,6.0,4.0,9.0,3542400.0,0.0,3
+90010,Adenoca: corpus uteri st Ic,TC23,DC106,SC61,DTC575385,68.0,727_3,AC410100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-06-02 09:00:00,0.0,6.0,4.0,9.0,3542400.0,0.0,3
+90011,Adenoca: corpus uteri st Ic,TC23,DC106,SC61,DTC575385,68.0,727_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-06-02 09:00:00,0.0,6.0,4.0,9.0,3542400.0,0.0,3
+90220,Plav.celcarc. vulva: (st onbekend),TC101,M11,SC7,other,64.0,729_3,AC355201,LVPT,Section 4,SC88,Pathology,1.0,2006-06-07 09:00:00,0.0,6.0,2.0,9.0,0.0,0.0,3
+90221,Plav.celcarc. vulva: (st onbekend),TC101,M11,SC7,other,64.0,729_3,AC410100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-06-07 09:00:00,0.0,6.0,2.0,9.0,0.0,0.0,3
+90222,Plav.celcarc. vulva: (st onbekend),TC101,M11,SC7,other,64.0,729_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-06-07 09:00:00,0.0,6.0,2.0,9.0,0.0,0.0,3
+91025,Gynaecologische tumoren,TC61,DC106,SC7,DTC495023,53.0,736_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-06-12 09:00:00,0.0,6.0,0.0,9.0,31708800.0,0.0,3
+91026,Gynaecologische tumoren,TC61,DC106,SC7,DTC495023,53.0,736_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-06-12 09:00:00,0.0,6.0,0.0,9.0,31708800.0,0.0,3
+91640,Maligne neoplasma cervix uteri,TC3101,M13,SC61,DTC521172,44.0,740_3,370407.0,HAEM,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-06-14 09:00:00,0.0,6.0,2.0,9.0,36288000.0,0.0,3
+91641,Maligne neoplasma cervix uteri,TC3101,M13,SC61,DTC521172,44.0,740_3,370488E,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-06-14 09:00:00,0.0,6.0,2.0,9.0,36288000.0,0.0,3
+91642,Maligne neoplasma cervix uteri,TC3101,M13,SC61,DTC521172,44.0,740_3,AC370443,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-06-14 09:00:00,0.0,6.0,2.0,9.0,36288000.0,0.0,3
+92993,Plav.celcarc. vulva: st IVa,TC13,DC106,SC61,DTC785602,84.0,743_3,370488J,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-06-19 09:00:00,0.0,6.0,0.0,9.0,14688000.0,0.0,3
+92994,Plav.celcarc. vulva: st IVa,TC13,DC106,SC61,DTC785602,84.0,743_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-06-19 09:00:00,0.0,6.0,0.0,9.0,14688000.0,0.0,3
+92995,Plav.celcarc. vulva: st IVa,TC13,DC106,SC61,DTC785602,84.0,743_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-06-19 09:00:00,0.0,6.0,0.0,9.0,14688000.0,0.0,3
+93074,Adenoca: corpus uteri st Ib,TC101,M14,SC61,DTC561769,67.0,744_3,AC419100,SRTH,Section 5,SC61,Radiotherapy,1.0,2006-06-19 09:00:00,0.0,6.0,0.0,9.0,34646400.0,0.0,3
+93075,Adenoca: corpus uteri st Ib,TC101,M14,SC61,DTC561769,67.0,744_3,AC410100,SRTH,Section 5,SC61,Radiotherapy,1.0,2006-06-19 09:00:00,0.0,6.0,0.0,9.0,34646400.0,0.0,3
+93076,Adenoca: corpus uteri st Ib,TC101,M14,SC61,DTC561769,67.0,744_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-06-19 09:00:00,0.0,6.0,0.0,9.0,34646400.0,0.0,3
+29178,Gynaecologische tumoren,TC61,DC106,SC7,other,72.0,226_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-06-21 09:00:00,0.0,6.0,2.0,9.0,28425600.0,34473600.0,3
+29179,Gynaecologische tumoren,TC61,DC106,SC7,other,72.0,226_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-06-21 09:00:00,574560.0,6.0,2.0,9.0,28425600.0,34473600.0,3
+29181,maligniteit cervix,TC101,M13,SC7,other,40.0,227_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-06-21 09:00:00,0.0,6.0,2.0,9.0,0.0,34473600.0,3
+82073,maligniteit cervix,TC61,DC106,SC61,other,42.0,650_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-06-21 09:00:00,0.0,6.0,2.0,9.0,15811200.0,7862400.0,3
+82074,maligniteit cervix,TC61,DC106,SC61,other,42.0,650_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-06-21 09:00:00,131040.0,6.0,2.0,9.0,15811200.0,7862400.0,3
+94377,maligniteit vulva,TC101,M11,SC7,other,67.0,751_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-06-28 09:00:00,0.0,6.0,2.0,9.0,35251200.0,0.0,3
+94378,maligniteit vulva,TC101,M11,SC7,other,67.0,751_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-06-28 09:00:00,0.0,6.0,2.0,9.0,35251200.0,0.0,3
+94582,"Plaveiselcelca, cervix st Ia1",TC603,M13,SC7,DTC510554,50.0,758_3,AC410100,SGAL,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-06-30 09:00:00,0.0,6.0,4.0,9.0,16848000.0,0.0,3
+94583,"Plaveiselcelca, cervix st Ia1",TC603,M13,SC7,DTC510554,50.0,758_3,AC356134,LVPT,Section 4,SC88,Pathology,1.0,2006-06-30 09:00:00,0.0,6.0,4.0,9.0,16848000.0,0.0,3
+94584,"Plaveiselcelca, cervix st Ia1",TC603,M13,SC7,DTC510554,50.0,758_3,AC419100,SGAL,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-06-30 09:00:00,0.0,6.0,4.0,9.0,16848000.0,0.0,3
+39865,Gynaecologische tumoren,TC101,DC106,SC61,DTC785776,85.0,332_3,AC411100,SGAL,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-07-05 09:00:00,0.0,7.0,2.0,9.0,52617600.0,30240000.0,3
+94636,maligniteit endometrium,TC61,DC106,SC61,other,49.0,762_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-07-05 09:00:00,0.0,7.0,2.0,9.0,21859200.0,0.0,3
+94637,maligniteit endometrium,TC61,DC106,SC61,other,49.0,762_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-07-05 09:00:00,0.0,7.0,2.0,9.0,21859200.0,0.0,3
+37305,maligniteit ovarium | tuba,TC101,M16,SC7,other,59.0,308_3,AC411100,SGAL,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-07-12 09:00:00,0.0,7.0,2.0,9.0,40521600.0,32054400.0,3
+95458,Niet epitheliale mal. nieuwv. ovarium st IIIa,TC101,M16,SC7,DTC518436,69.0,770_3,370712B,HAEM,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-07-12 09:00:00,0.0,7.0,2.0,9.0,518400.0,0.0,3
+95459,Niet epitheliale mal. nieuwv. ovarium st IIIa,TC101,M16,SC7,DTC518436,69.0,770_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-07-12 09:00:00,0.0,7.0,2.0,9.0,518400.0,0.0,3
+95460,Niet epitheliale mal. nieuwv. ovarium st IIIa,TC101,M16,SC7,DTC518436,69.0,770_3,AC410100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-07-12 09:00:00,0.0,7.0,2.0,9.0,518400.0,0.0,3
+95575,maligniteit ovarium | tuba,TC803,M16,SC7,DTC519205,66.0,771_3,370407.0,HAEM,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-07-13 09:00:00,0.0,7.0,3.0,9.0,13219200.0,0.0,3
+95576,maligniteit ovarium | tuba,TC803,M16,SC7,DTC519205,66.0,771_3,370488E,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-07-13 09:00:00,0.0,7.0,3.0,9.0,13219200.0,0.0,3
+95577,maligniteit ovarium | tuba,TC803,M16,SC7,DTC519205,66.0,771_3,AC370443,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-07-13 09:00:00,0.0,7.0,3.0,9.0,13219200.0,0.0,3
+34617,maligniteit ovarium | tuba,TC101,M16,SC7,DTC251292,41.0,269_3,AC419100,SGAL,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-07-18 09:00:00,0.0,7.0,1.0,9.0,38707200.0,34473600.0,3
+34911,maligniteit endometrium,TC101,M14,SC7,other,68.0,271_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-07-19 09:00:00,0.0,7.0,2.0,9.0,33264000.0,34473600.0,3
+87242,maligniteit vulva,TC101,M11,SC7,DTC473750,86.0,700_3,AC415100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-07-19 09:00:00,100800.0,7.0,2.0,9.0,42940800.0,6048000.0,3
+95898,Adenoca: corpus uteri st IIIa,TC603,M14,SC7,DTC523258,66.0,776_3,AC359999,LVPT,Section 4,SC88,Pathology,1.0,2006-07-19 09:00:00,0.0,7.0,2.0,9.0,52617600.0,0.0,3
+95899,Adenoca: corpus uteri st IIIa,TC603,M14,SC7,DTC523258,66.0,776_3,AC356134,LVPT,Section 4,SC88,Pathology,1.0,2006-07-19 09:00:00,0.0,7.0,2.0,9.0,52617600.0,0.0,3
+95900,Adenoca: corpus uteri st IIIa,TC603,M14,SC7,DTC523258,66.0,776_3,AC355201,LVPT,Section 4,SC88,Pathology,1.0,2006-07-19 09:00:00,0.0,7.0,2.0,9.0,52617600.0,0.0,3
+95905,Adenoca: corpus uteri st IIa,TC101,M14,SC7,DTC523199,71.0,777_3,375003A,BLOB,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-07-19 09:00:00,0.0,7.0,2.0,9.0,604800.0,0.0,3
+95906,Adenoca: corpus uteri st IIa,TC101,M14,SC7,DTC523199,71.0,777_3,AC375004,BLOB,Section 4,SC86,General Lab Clinical Chemistry,2.0,2006-07-19 09:00:00,0.0,7.0,2.0,9.0,604800.0,0.0,3
+95907,Adenoca: corpus uteri st IIa,TC101,M14,SC7,DTC523199,71.0,777_3,AC375005,BLOB,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-07-19 09:00:00,0.0,7.0,2.0,9.0,604800.0,0.0,3
+95944,"Plaveiselcelca, cervix st IIIb",TC101,M13,SC7,DTC524974,66.0,778_3,AC355409,LVPT,Section 4,SC88,Pathology,1.0,2006-07-20 09:00:00,0.0,7.0,3.0,9.0,518400.0,0.0,3
+95945,"Plaveiselcelca, cervix st IIIb",TC101,M13,SC7,DTC524974,66.0,778_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-07-20 09:00:00,0.0,7.0,3.0,9.0,518400.0,0.0,3
+95946,"Plaveiselcelca, cervix st IIIb",TC101,M13,SC7,DTC524974,66.0,778_3,AC410100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-07-20 09:00:00,0.0,7.0,3.0,9.0,518400.0,0.0,3
+95971,Adenoca: corpus uteri st Ic,TC101,M14,SC7,DTC525166,59.0,780_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-07-21 09:00:00,0.0,7.0,4.0,9.0,604800.0,0.0,3
+95972,Adenoca: corpus uteri st Ic,TC101,M14,SC7,DTC525166,59.0,780_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-07-21 09:00:00,0.0,7.0,4.0,9.0,604800.0,0.0,3
+95973,Adenoca: corpus uteri st Ic,TC101,M14,SC7,DTC525166,59.0,780_3,AC410100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-07-21 09:00:00,0.0,7.0,4.0,9.0,604800.0,0.0,3
+96014,Gynaecologische tumoren,TC61,DC106,SC7,DTC525955,40.0,781_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-07-24 09:00:00,0.0,7.0,0.0,9.0,36288000.0,0.0,3
+96015,Gynaecologische tumoren,TC61,DC106,SC7,DTC525955,40.0,781_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-07-24 09:00:00,0.0,7.0,0.0,9.0,36288000.0,0.0,3
+96016,Gynaecologische tumoren,TC61,DC106,SC7,DTC525955,40.0,781_3,AC355427,LVPT,Section 4,SC88,Pathology,1.0,2006-07-24 09:00:00,0.0,7.0,0.0,9.0,36288000.0,0.0,3
+35169,maligniteit vulva,TC101,M11,SC7,DTC256757,80.0,280_3,AC356134,LVPT,Section 4,SC88,Pathology,1.0,2006-07-26 09:00:00,0.0,7.0,2.0,9.0,50284800.0,34473600.0,3
+94375,maligniteit vulva,TC101,M11,SC7,other,67.0,751_3,AC356134,LVPT,Section 4,SC88,Pathology,1.0,2006-07-28 09:00:00,0.0,7.0,4.0,9.0,32659200.0,2592000.0,3
+96860,maligniteit endometrium,TC101,M14,SC7,DTC530455,55.0,789_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-07-31 09:00:00,0.0,7.0,0.0,9.0,0.0,0.0,3
+96861,maligniteit endometrium,TC101,M14,SC7,DTC530455,55.0,789_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-07-31 09:00:00,0.0,7.0,0.0,9.0,0.0,0.0,3
+96862,maligniteit endometrium,TC101,M14,SC7,DTC530455,55.0,789_3,AC410100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-07-31 09:00:00,0.0,7.0,0.0,9.0,0.0,0.0,3
+99733,maligniteit ovarium | tuba,TC3103,DC821,SC13,DTC592071,60.0,800_3,AC370402,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-08-21 09:00:00,0.0,8.0,0.0,9.0,6393600.0,0.0,3
+99734,maligniteit ovarium | tuba,TC3103,DC821,SC13,DTC592071,60.0,800_3,AC370604,BLOB,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-08-21 09:00:00,0.0,8.0,0.0,9.0,6393600.0,0.0,3
+99735,maligniteit ovarium | tuba,TC3103,DC821,SC13,DTC592071,60.0,800_3,AC370401,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-08-21 09:00:00,0.0,8.0,0.0,9.0,6393600.0,0.0,3
+100067,Maligne neoplasma cervix uteri,TC81,DC822,SC61,DTC567064,29.0,801_3,370488J,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-08-23 09:00:00,0.0,8.0,2.0,9.0,46569600.0,0.0,3
+100068,Maligne neoplasma cervix uteri,TC81,DC822,SC61,DTC567064,29.0,801_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-08-23 09:00:00,0.0,8.0,2.0,9.0,46569600.0,0.0,3
+100069,Maligne neoplasma cervix uteri,TC81,DC822,SC61,DTC567064,29.0,801_3,AC370401,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-08-23 09:00:00,0.0,8.0,2.0,9.0,46569600.0,0.0,3
+100095,maligniteit ovarium | tuba,TC101,M16,SC7,other,67.0,802_3,339486E,SGEC,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-08-23 09:00:00,0.0,8.0,2.0,9.0,0.0,0.0,3
+100096,maligniteit ovarium | tuba,TC101,M16,SC7,other,67.0,802_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-08-23 09:00:00,0.0,8.0,2.0,9.0,0.0,0.0,3
+100097,maligniteit ovarium | tuba,TC101,M16,SC7,other,67.0,802_3,376400.0,CHE1,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-08-23 09:00:00,0.0,8.0,2.0,9.0,0.0,0.0,3
+100105,maligniteit ovarium | tuba,TC101,M16,SC7,DTC545423,39.0,803_3,AC355201,LVPT,Section 4,SC88,Pathology,1.0,2006-08-24 09:00:00,0.0,8.0,3.0,9.0,44150400.0,0.0,3
+100106,maligniteit ovarium | tuba,TC101,M16,SC7,DTC545423,39.0,803_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-08-24 09:00:00,0.0,8.0,3.0,9.0,44150400.0,0.0,3
+100107,maligniteit ovarium | tuba,TC101,M16,SC7,DTC545423,39.0,803_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-08-24 09:00:00,0.0,8.0,3.0,9.0,44150400.0,0.0,3
+100455,maligniteit vulva,TC101,M11,SC7,DTC546701,82.0,805_3,370488G,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-08-25 09:00:00,0.0,8.0,4.0,9.0,432000.0,0.0,3
+100456,maligniteit vulva,TC101,M11,SC7,DTC546701,82.0,805_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-08-25 09:00:00,0.0,8.0,4.0,9.0,432000.0,0.0,3
+100457,maligniteit vulva,TC101,M11,SC7,DTC546701,82.0,805_3,AC410100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-08-25 09:00:00,0.0,8.0,4.0,9.0,432000.0,0.0,3
+76601,Gynaecologische tumoren,TC61,DC106,SC7,DTC418694,62.0,607_3,AC355427,LVPT,Section 4,SC88,Pathology,1.0,2006-08-28 09:00:00,0.0,8.0,0.0,9.0,44409600.0,16675200.0,3
+100776,maligniteit endometrium,TC61,DC106,SC61,other,45.0,808_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-08-30 09:00:00,0.0,8.0,2.0,9.0,16416000.0,0.0,3
+100777,maligniteit endometrium,TC61,DC106,SC61,other,45.0,808_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-08-30 09:00:00,0.0,8.0,2.0,9.0,16416000.0,0.0,3
+52028,maligniteit cervix,TC101,M13,SC7,other,36.0,435_3,AC415100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-08-31 09:00:00,483840.0,8.0,3.0,9.0,5443200.0,29030400.0,3
+101759,Adenoca: corpus uteri st Ib,TC613,M14,SC7,DTC550984,60.0,811_3,AC419100,SGAL,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-09-01 09:00:00,0.0,9.0,4.0,9.0,20563200.0,0.0,3
+101760,Adenoca: corpus uteri st Ib,TC613,M14,SC7,DTC550984,60.0,811_3,AC410100,SGAL,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-09-01 09:00:00,0.0,9.0,4.0,9.0,20563200.0,0.0,3
+101761,Adenoca: corpus uteri st Ib,TC613,M14,SC7,DTC550984,60.0,811_3,339486E,SGEC,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-09-01 09:00:00,0.0,9.0,4.0,9.0,20563200.0,0.0,3
+101798,"Plaveiselcelca, cervix st IIb",TC61,DC106,SC61,DTC795001,57.0,812_3,AC419100,SRTH,Section 5,SC61,Radiotherapy,1.0,2006-09-04 09:00:00,0.0,9.0,0.0,9.0,16934400.0,0.0,3
+101799,"Plaveiselcelca, cervix st IIb",TC61,DC106,SC61,DTC795001,57.0,812_3,AC411100,SRTH,Section 5,SC61,Radiotherapy,1.0,2006-09-04 09:00:00,0.0,9.0,0.0,9.0,16934400.0,0.0,3
+101861,Gynaecologische tumoren,TC23,DC106,SC7,DTC551864,68.0,813_3,370488G,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-09-04 09:00:00,0.0,9.0,0.0,9.0,47952000.0,0.0,3
+101862,Gynaecologische tumoren,TC23,DC106,SC7,DTC551864,68.0,813_3,370488E,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-09-04 09:00:00,0.0,9.0,0.0,9.0,47952000.0,0.0,3
+101863,Gynaecologische tumoren,TC23,DC106,SC7,DTC551864,68.0,813_3,AC370443,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-09-04 09:00:00,0.0,9.0,0.0,9.0,47952000.0,0.0,3
+49120,maligniteit vulva,TC101,M11,SC7,other,86.0,390_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-09-06 09:00:00,524160.0,9.0,2.0,9.0,32659200.0,31449600.0,3
+101783,"Plaveiselcelca, cervix st IIb",TC61,DC106,SC61,DTC795001,57.0,812_3,AC370443,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-09-08 09:00:00,0.0,9.0,4.0,9.0,16588800.0,345600.0,3
+103187,"Plaveiselcelca, cervix st Ib",TC803,M13,SC7,DTC555229,40.0,816_3,AC410100,SGAL,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-09-08 09:00:00,0.0,9.0,4.0,9.0,33177600.0,0.0,3
+103188,"Plaveiselcelca, cervix st Ib",TC803,M13,SC7,DTC555229,40.0,816_3,AC359999,LVPT,Section 4,SC88,Pathology,1.0,2006-09-08 09:00:00,0.0,9.0,4.0,9.0,33177600.0,0.0,3
+103189,"Plaveiselcelca, cervix st Ib",TC803,M13,SC7,DTC555229,40.0,816_3,AC419100,SGAL,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-09-08 09:00:00,0.0,9.0,4.0,9.0,33177600.0,0.0,3
+103246,maligniteit endometrium,TC13,DC106,SC61,DTC785637,85.0,818_3,AC410100,SRTH,Section 5,SC61,Radiotherapy,1.0,2006-09-11 09:00:00,0.0,9.0,0.0,9.0,6912000.0,0.0,3
+103247,maligniteit endometrium,TC13,DC106,SC61,DTC785637,85.0,818_3,AC410100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-09-11 09:00:00,0.0,9.0,0.0,9.0,6912000.0,0.0,3
+103248,maligniteit endometrium,TC13,DC106,SC61,DTC785637,85.0,818_3,AC419100,SRTH,Section 5,SC61,Radiotherapy,1.0,2006-09-11 09:00:00,0.0,9.0,0.0,9.0,6912000.0,0.0,3
+80976,maligniteit cervix,TC101,DC106,SC7,other,74.0,641_3,AC411100,SRTH,Section 5,SC61,Radiotherapy,1.0,2006-09-14 09:00:00,0.0,9.0,3.0,9.0,47606400.0,15811200.0,3
+80977,maligniteit cervix,TC101,DC106,SC7,other,74.0,641_3,AC419100,SRTH,Section 5,SC61,Radiotherapy,1.0,2006-09-14 09:00:00,263520.0,9.0,3.0,9.0,47606400.0,15811200.0,3
+105427,Maligne neoplasma cervix uteri,TC813,DC822,SC61,DTC593140,38.0,824_3,370407.0,HAEM,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-09-19 09:00:00,0.0,9.0,1.0,9.0,44236800.0,0.0,3
+105428,Maligne neoplasma cervix uteri,TC813,DC822,SC61,DTC593140,38.0,824_3,370488J,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-09-19 09:00:00,0.0,9.0,1.0,9.0,44236800.0,0.0,3
+105429,Maligne neoplasma cervix uteri,TC813,DC822,SC61,DTC593140,38.0,824_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-09-19 09:00:00,0.0,9.0,1.0,9.0,44236800.0,0.0,3
+106331,"Plaveiselcelca, cervix st IIb",TC113,M13,SC61,DTC582622,37.0,828_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-09-26 09:00:00,0.0,9.0,1.0,9.0,17625600.0,0.0,3
+106332,"Plaveiselcelca, cervix st IIb",TC113,M13,SC61,DTC582622,37.0,828_3,AC410100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-09-26 09:00:00,0.0,9.0,1.0,9.0,17625600.0,0.0,3
+106333,"Plaveiselcelca, cervix st IIb",TC113,M13,SC61,DTC582622,37.0,828_3,AC355111,LVPT,Section 4,SC88,Pathology,1.0,2006-09-26 09:00:00,0.0,9.0,1.0,9.0,17625600.0,0.0,3
+51519,maligniteit cervix,TC101,M13,SC7,other,47.0,425_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-09-28 09:00:00,0.0,9.0,3.0,9.0,0.0,32054400.0,3
+52032,maligniteit ovarium | tuba,TC101,M16,SC7,other,73.0,436_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-10-12 09:00:00,0.0,10.0,3.0,9.0,32054400.0,32659200.0,3
+76617,maligniteit vulva,TC101,M11,SC7,other,68.0,609_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-10-12 09:00:00,332640.0,10.0,3.0,9.0,33609600.0,19958400.0,3
+107388,Recidieven corpus maligniteit uteri (nno),TC101,M14,SC61,DTC785616,58.0,834_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-10-13 09:00:00,0.0,10.0,4.0,9.0,32486400.0,0.0,3
+107389,Recidieven corpus maligniteit uteri (nno),TC101,M14,SC61,DTC785616,58.0,834_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-10-13 09:00:00,0.0,10.0,4.0,9.0,32486400.0,0.0,3
+107390,Recidieven corpus maligniteit uteri (nno),TC101,M14,SC61,DTC785616,58.0,834_3,AC410100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-10-13 09:00:00,0.0,10.0,4.0,9.0,32486400.0,0.0,3
+107417,Recidieven corpus maligniteit uteri (nno),TC101,M14,SC7,other,50.0,835_3,other,LVPT,Section 4,SC88,Pathology,1.0,2006-10-18 09:00:00,0.0,10.0,2.0,9.0,0.0,0.0,3
+107418,Recidieven corpus maligniteit uteri (nno),TC101,M14,SC7,other,50.0,835_3,AC386002,SRA1,Section 5,SC62,Radiology,1.0,2006-10-18 09:00:00,0.0,10.0,2.0,9.0,0.0,0.0,3
+107419,Recidieven corpus maligniteit uteri (nno),TC101,M14,SC7,other,50.0,835_3,AC410100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-10-18 09:00:00,0.0,10.0,2.0,9.0,0.0,0.0,3
+107637,Adenoca: corpus uteri st IIIb,TC703,M14,SC7,DTC584816,71.0,836_3,376400.0,CHE1,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-10-18 09:00:00,0.0,10.0,2.0,9.0,30067200.0,0.0,3
+107638,Adenoca: corpus uteri st IIIb,TC703,M14,SC7,DTC584816,71.0,836_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-10-18 09:00:00,0.0,10.0,2.0,9.0,30067200.0,0.0,3
+107639,Adenoca: corpus uteri st IIIb,TC703,M14,SC7,DTC584816,71.0,836_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-10-18 09:00:00,0.0,10.0,2.0,9.0,30067200.0,0.0,3
+72204,Gynaecologische tumoren,TC61,DC106,SC7,other,59.0,568_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-10-26 09:00:00,0.0,10.0,3.0,9.0,32140800.0,24192000.0,3
+72205,Gynaecologische tumoren,TC61,DC106,SC7,other,59.0,568_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-10-26 09:00:00,403200.0,10.0,3.0,9.0,32140800.0,24192000.0,3
+108066,Maligne nieuwvormingen ovarium (nno),TC803,M16,SC7,DTC591784,33.0,841_3,AC355201,LVPT,Section 4,SC88,Pathology,1.0,2006-10-30 09:00:00,0.0,10.0,0.0,9.0,39484800.0,0.0,3
+108067,Maligne nieuwvormingen ovarium (nno),TC803,M16,SC7,DTC591784,33.0,841_3,AC359999,LVPT,Section 4,SC88,Pathology,1.0,2006-10-30 09:00:00,0.0,10.0,0.0,9.0,39484800.0,0.0,3
+108068,Maligne nieuwvormingen ovarium (nno),TC803,M16,SC7,DTC591784,33.0,841_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-10-30 09:00:00,0.0,10.0,0.0,9.0,39484800.0,0.0,3
+85006,Gynaecologische tumoren,TC61,DC106,SC7,other,72.0,677_3,AC411100,SRTH,Section 5,SC61,Radiotherapy,1.0,2006-10-31 09:00:00,290880.0,10.0,1.0,9.0,26092800.0,17452800.0,3
+85840,maligniteit vulva,TC101,M11,SC7,other,62.0,682_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-11-01 09:00:00,0.0,11.0,2.0,9.0,33264000.0,16934400.0,3
+85841,maligniteit vulva,TC101,M11,SC7,other,62.0,682_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-11-01 09:00:00,282240.0,11.0,2.0,9.0,33264000.0,16934400.0,3
+86305,maligniteit myometrium,TC101,M15,SC7,other,58.0,690_3,AC386002,SRA1,Section 5,SC62,Radiology,1.0,2006-11-01 09:00:00,0.0,11.0,2.0,9.0,33264000.0,16243200.0,3
+52026,maligniteit cervix,TC101,M13,SC7,other,36.0,435_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-11-02 09:00:00,0.0,11.0,3.0,9.0,0.0,34473600.0,3
+108528,Plav.celcarc. vulva: (st onbekend),TC803,M11,SC61,DTC786416,87.0,845_3,AC359999,LVPT,Section 4,SC88,Pathology,1.0,2006-11-06 09:00:00,0.0,11.0,0.0,9.0,16934400.0,0.0,3
+108529,Plav.celcarc. vulva: (st onbekend),TC803,M11,SC61,DTC786416,87.0,845_3,370488G,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-11-06 09:00:00,0.0,11.0,0.0,9.0,16934400.0,0.0,3
+108530,Plav.celcarc. vulva: (st onbekend),TC803,M11,SC61,DTC786416,87.0,845_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-11-06 09:00:00,0.0,11.0,0.0,9.0,16934400.0,0.0,3
+109932,"Plaveiselcelca, cervix st Ib",TC613,M13,SC61,DTC617130,34.0,851_3,AC359999,LVPT,Section 4,SC88,Pathology,1.0,2006-11-13 09:00:00,0.0,11.0,0.0,9.0,31017600.0,0.0,3
+109933,"Plaveiselcelca, cervix st Ib",TC613,M13,SC61,DTC617130,34.0,851_3,AC370402,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-11-13 09:00:00,0.0,11.0,0.0,9.0,31017600.0,0.0,3
+109934,"Plaveiselcelca, cervix st Ib",TC613,M13,SC61,DTC617130,34.0,851_3,370488G,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-11-13 09:00:00,0.0,11.0,0.0,9.0,31017600.0,0.0,3
+56366,maligniteit vulva,TC101,M11,SC7,other,81.0,485_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-11-15 09:00:00,0.0,11.0,2.0,9.0,32054400.0,32054400.0,3
+56950,maligniteit cervix,TC101,M13,SC7,other,53.0,493_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-11-16 09:00:00,0.0,11.0,3.0,9.0,0.0,32054400.0,3
+111290,"Plaveiselcelca, cervix st Ib",TC803,M13,SC7,DTC606164,30.0,856_3,370401C,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-11-20 09:00:00,0.0,11.0,0.0,9.0,29635200.0,0.0,3
+111291,"Plaveiselcelca, cervix st Ib",TC803,M13,SC7,DTC606164,30.0,856_3,370488J,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-11-20 09:00:00,0.0,11.0,0.0,9.0,29635200.0,0.0,3
+111292,"Plaveiselcelca, cervix st Ib",TC803,M13,SC7,DTC606164,30.0,856_3,AC370401,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-11-20 09:00:00,0.0,11.0,0.0,9.0,29635200.0,0.0,3
+111365,Sarcoom corpus uteri: FIGO st onbek.,TC603,M15,SC7,DTC606137,47.0,857_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-11-20 09:00:00,0.0,11.0,0.0,9.0,7257600.0,0.0,3
+111366,Sarcoom corpus uteri: FIGO st onbek.,TC603,M15,SC7,DTC606137,47.0,857_3,AC410100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-11-20 09:00:00,0.0,11.0,0.0,9.0,7257600.0,0.0,3
+57924,Gynaecologische tumoren,TC61,DC106,SC7,DTC352851,44.0,498_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-11-22 09:00:00,0.0,11.0,2.0,9.0,34300800.0,32054400.0,3
+111363,Sarcoom corpus uteri: FIGO st onbek.,TC603,M15,SC7,DTC606137,47.0,857_3,AC386042,SRA6,Section 5,SC62,Radiology,1.0,2006-11-22 09:00:00,0.0,11.0,2.0,9.0,7084800.0,172800.0,3
+24604,maligniteit cervix,TC61,DC106,SC61,other,85.0,187_3,AC411100,SRTH,Section 5,SC61,Radiotherapy,1.0,2006-11-23 09:00:00,0.0,11.0,3.0,9.0,29030400.0,50284800.0,3
+27205,Gynaecologische tumoren,TC61,DC106,SC7,other,42.0,208_3,AC411100,SRTH,Section 5,SC61,Radiotherapy,1.0,2006-11-30 09:00:00,0.0,11.0,3.0,9.0,28425600.0,49680000.0,3
+55546,maligniteit cervix,TC101,M13,SC7,other,39.0,473_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-11-30 09:00:00,0.0,11.0,3.0,9.0,4838400.0,34473600.0,3
+55547,maligniteit cervix,TC101,M13,SC7,other,39.0,473_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-11-30 09:00:00,574560.0,11.0,3.0,9.0,4838400.0,34473600.0,3
+112115,Recidieven corpus maligniteit uteri (nno),TC101,M14,SC61,DTC786376,92.0,868_3,AC370403,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-12-07 09:00:00,0.0,12.0,3.0,9.0,25401600.0,0.0,3
+112116,Recidieven corpus maligniteit uteri (nno),TC101,M14,SC61,DTC786376,92.0,868_3,AC370401,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-12-07 09:00:00,0.0,12.0,3.0,9.0,25401600.0,0.0,3
+112117,Recidieven corpus maligniteit uteri (nno),TC101,M14,SC61,DTC786376,92.0,868_3,370401C,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-12-07 09:00:00,0.0,12.0,3.0,9.0,25401600.0,0.0,3
+112149,maligniteit ovarium | tuba,TC101,M16,SC7,other,58.0,869_3,AC410100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-12-07 09:00:00,0.0,12.0,3.0,9.0,86400.0,0.0,3
+112150,maligniteit ovarium | tuba,TC101,M16,SC7,other,58.0,869_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-12-07 09:00:00,0.0,12.0,3.0,9.0,86400.0,0.0,3
+112146,maligniteit ovarium | tuba,TC101,M16,SC7,other,58.0,869_3,387042A,SRAE,Section 5,SC62,Radiology,1.0,2006-12-08 09:00:00,0.0,12.0,4.0,9.0,0.0,86400.0,3
+112579,Maligne nieuwvormingen ovarium (nno),TC803,M16,SC13,DTC620890,68.0,871_3,AC370443,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-12-11 09:00:00,0.0,12.0,0.0,9.0,35078400.0,0.0,3
+112580,Maligne nieuwvormingen ovarium (nno),TC803,M16,SC13,DTC620890,68.0,871_3,370715A,HAEM,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-12-11 09:00:00,0.0,12.0,0.0,9.0,35078400.0,0.0,3
+112581,Maligne nieuwvormingen ovarium (nno),TC803,M16,SC13,DTC620890,68.0,871_3,AC370442,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-12-11 09:00:00,0.0,12.0,0.0,9.0,35078400.0,0.0,3
+112702,Clearcel carcinoom corpus uteri (nno),TC803,M14,SC7,DTC623075,67.0,872_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-12-13 09:00:00,0.0,12.0,2.0,9.0,7689600.0,0.0,3
+112703,Clearcel carcinoom corpus uteri (nno),TC803,M14,SC7,DTC623075,67.0,872_3,370488J,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-12-13 09:00:00,0.0,12.0,2.0,9.0,7689600.0,0.0,3
+112704,Clearcel carcinoom corpus uteri (nno),TC803,M14,SC7,DTC623075,67.0,872_3,370488G,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-12-13 09:00:00,0.0,12.0,2.0,9.0,7689600.0,0.0,3
+94635,maligniteit endometrium,TC61,DC106,SC61,other,49.0,762_3,AC411100,SRTH,Section 5,SC61,Radiotherapy,1.0,2006-12-14 09:00:00,233280.0,12.0,3.0,9.0,7862400.0,13996800.0,3
+112973,Niet epitheliale mal. nieuwv. ovarium (nno),TC603,M16,SC7,DTC623746,52.0,875_3,AC370419,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-12-14 09:00:00,0.0,12.0,3.0,9.0,39312000.0,0.0,3
+112974,Niet epitheliale mal. nieuwv. ovarium (nno),TC603,M16,SC7,DTC623746,52.0,875_3,AC370443,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-12-14 09:00:00,0.0,12.0,3.0,9.0,39312000.0,0.0,3
+112975,Niet epitheliale mal. nieuwv. ovarium (nno),TC603,M16,SC7,DTC623746,52.0,875_3,AC370423,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-12-14 09:00:00,0.0,12.0,3.0,9.0,39312000.0,0.0,3
+71379,maligniteit cervix,TC101,M13,SC7,DTC398986,38.0,561_3,AC356134,LVPT,Section 4,SC88,Pathology,1.0,2006-12-15 09:00:00,0.0,12.0,4.0,9.0,5270400.0,28598400.0,3
+71380,maligniteit cervix,TC101,M13,SC7,DTC398986,38.0,561_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-12-15 09:00:00,0.0,12.0,4.0,9.0,5270400.0,28598400.0,3
+113156,"Plaveiselcelca, cervix st Ib",TC803,M13,SC7,DTC624677,42.0,876_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-12-15 09:00:00,0.0,12.0,4.0,9.0,35510400.0,0.0,3
+113157,"Plaveiselcelca, cervix st Ib",TC803,M13,SC7,DTC624677,42.0,876_3,AC410100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-12-15 09:00:00,0.0,12.0,4.0,9.0,35510400.0,0.0,3
+113226,Sereus adenoca: ovarium st IIIc,TC803,M16,SC7,DTC627701,59.0,877_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-12-20 09:00:00,0.0,12.0,2.0,9.0,8553600.0,0.0,3
+113227,Sereus adenoca: ovarium st IIIc,TC803,M16,SC7,DTC627701,59.0,877_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-12-20 09:00:00,0.0,12.0,2.0,9.0,8553600.0,0.0,3
+113228,Sereus adenoca: ovarium st IIIc,TC803,M16,SC7,DTC627701,59.0,877_3,AC370401,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-12-20 09:00:00,0.0,12.0,2.0,9.0,8553600.0,0.0,3
+63662,maligniteit endometrium,TC101,M14,SC7,other,79.0,528_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-12-21 09:00:00,0.0,12.0,3.0,9.0,33868800.0,31708800.0,3
+63663,maligniteit endometrium,TC101,M14,SC7,other,79.0,528_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2006-12-21 09:00:00,528480.0,12.0,3.0,9.0,33868800.0,31708800.0,3
+113797,Plav.celcarc. vulva: st II,TC803,M11,SC7,DTC632518,74.0,881_3,other,LVPT,Section 4,SC88,Pathology,1.0,2006-12-27 09:00:00,0.0,12.0,2.0,9.0,35078400.0,0.0,3
+113798,Plav.celcarc. vulva: st II,TC803,M11,SC7,DTC632518,74.0,881_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-12-27 09:00:00,0.0,12.0,2.0,9.0,35078400.0,0.0,3
+113799,Plav.celcarc. vulva: st II,TC803,M11,SC7,DTC632518,74.0,881_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-12-27 09:00:00,0.0,12.0,2.0,9.0,35078400.0,0.0,3
+113129,"Plaveiselcelca, cervix st Ib",TC803,M13,SC7,DTC624677,42.0,876_3,370407.0,HAEM,Section 4,SC86,General Lab Clinical Chemistry,1.0,2006-12-28 09:00:00,0.0,12.0,3.0,9.0,34387200.0,1123200.0,3
+114074,Maligne neoplasma cervix uteri,TC3101,M13,SC61,DTC651687,71.0,882_3,AC370403,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2007-01-10 09:00:00,0.0,1.0,2.0,9.0,32745600.0,0.0,3
+114075,Maligne neoplasma cervix uteri,TC3101,M13,SC61,DTC651687,71.0,882_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2007-01-10 09:00:00,0.0,1.0,2.0,9.0,32745600.0,0.0,3
+114076,Maligne neoplasma cervix uteri,TC3101,M13,SC61,DTC651687,71.0,882_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2007-01-10 09:00:00,0.0,1.0,2.0,9.0,32745600.0,0.0,3
+114236,Adenoca:  cervix st Ib,TC803,M13,SC7,DTC644452,42.0,884_3,370401C,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2007-01-15 09:00:00,0.0,1.0,0.0,9.0,31622400.0,0.0,3
+114237,Adenoca:  cervix st Ib,TC803,M13,SC7,DTC644452,42.0,884_3,AC370606,BLOB,Section 4,SC86,General Lab Clinical Chemistry,1.0,2007-01-15 09:00:00,0.0,1.0,0.0,9.0,31622400.0,0.0,3
+114238,Adenoca:  cervix st Ib,TC803,M13,SC7,DTC644452,42.0,884_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2007-01-15 09:00:00,0.0,1.0,0.0,9.0,31622400.0,0.0,3
+114749,Adenoca: corpus uteri st Ic,TC23,DC106,SC61,DTC787923,70.0,887_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2007-01-17 09:00:00,0.0,1.0,2.0,9.0,31449600.0,0.0,3
+114750,Adenoca: corpus uteri st Ic,TC23,DC106,SC61,DTC787923,70.0,887_3,AC410100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2007-01-17 09:00:00,0.0,1.0,2.0,9.0,31449600.0,0.0,3
+114853,Recidieven corpus maligniteit uteri (nno),TC13,DC106,SC61,DTC787795,65.0,888_3,370407.0,HAEM,Section 4,SC86,General Lab Clinical Chemistry,1.0,2007-01-17 09:00:00,0.0,1.0,2.0,9.0,27734400.0,0.0,3
+114854,Recidieven corpus maligniteit uteri (nno),TC13,DC106,SC61,DTC787795,65.0,888_3,370488E,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2007-01-17 09:00:00,0.0,1.0,2.0,9.0,27734400.0,0.0,3
+114855,Recidieven corpus maligniteit uteri (nno),TC13,DC106,SC61,DTC787795,65.0,888_3,AC370443,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2007-01-17 09:00:00,0.0,1.0,2.0,9.0,27734400.0,0.0,3
+114724,Adenoca: corpus uteri st Ic,TC23,DC106,SC61,DTC787923,70.0,887_3,378453A,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2007-01-18 09:00:00,0.0,1.0,3.0,9.0,31363200.0,86400.0,3
+56406,maligniteit cervix,TC101,M13,SC7,other,44.0,488_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2007-01-31 09:00:00,0.0,1.0,2.0,9.0,32054400.0,38707200.0,3
+56788,maligniteit ovarium | tuba,TC101,M16,SC7,other,83.0,491_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2007-01-31 09:00:00,0.0,1.0,2.0,9.0,0.0,38707200.0,3
+116733,Plav.celcarc. vulva: st III1,TC803,M11,SC7,DTC656176,78.0,895_3,AC370403,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2007-01-31 09:00:00,0.0,1.0,2.0,9.0,9676800.0,0.0,3
+116734,Plav.celcarc. vulva: st III1,TC803,M11,SC7,DTC656176,78.0,895_3,370488E,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2007-01-31 09:00:00,0.0,1.0,2.0,9.0,9676800.0,0.0,3
+116735,Plav.celcarc. vulva: st III1,TC803,M11,SC7,DTC656176,78.0,895_3,AC370443,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2007-01-31 09:00:00,0.0,1.0,2.0,9.0,9676800.0,0.0,3
+72884,maligniteit cervix,TC101,M13,SC7,other,38.0,573_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2007-02-12 09:00:00,0.0,2.0,0.0,9.0,31536000.0,33091200.0,3
+117291,"Plaveiselcelca, cervix st Ib",TC813,M13,SC7,DTC663222,46.0,899_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2007-02-12 09:00:00,0.0,2.0,0.0,9.0,28598400.0,0.0,3
+117292,"Plaveiselcelca, cervix st Ib",TC813,M13,SC7,DTC663222,46.0,899_3,AC370604,BLOB,Section 4,SC86,General Lab Clinical Chemistry,1.0,2007-02-12 09:00:00,0.0,2.0,0.0,9.0,28598400.0,0.0,3
+117293,"Plaveiselcelca, cervix st Ib",TC813,M13,SC7,DTC663222,46.0,899_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2007-02-12 09:00:00,0.0,2.0,0.0,9.0,28598400.0,0.0,3
+29130,Gynaecologische tumoren,TC13,DC106,SC61,DTC787870,70.0,223_3,AC370443,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2007-02-15 09:00:00,0.0,2.0,3.0,9.0,6048000.0,55296000.0,3
+72196,maligniteit cervix,TC101,M13,SC7,other,40.0,567_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2007-02-22 09:00:00,0.0,2.0,3.0,9.0,31449600.0,34473600.0,3
+118845,Clearcel ca: corpus uteri st Ib,TC101,M14,SC61,DTC787818,72.0,909_3,AC379999,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2007-02-26 09:00:00,0.0,2.0,0.0,9.0,27302400.0,0.0,3
+118846,Clearcel ca: corpus uteri st Ib,TC101,M14,SC61,DTC787818,72.0,909_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2007-02-26 09:00:00,0.0,2.0,0.0,9.0,27302400.0,0.0,3
+118847,Clearcel ca: corpus uteri st Ib,TC101,M14,SC61,DTC787818,72.0,909_3,AC372417,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2007-02-26 09:00:00,0.0,2.0,0.0,9.0,27302400.0,0.0,3
+119058,maligniteit cervix,TC1101,M13,SC61,DTC689148,72.0,910_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2007-02-27 09:00:00,0.0,2.0,1.0,9.0,30931200.0,0.0,3
+119059,maligniteit cervix,TC1101,M13,SC61,DTC689148,72.0,910_3,370407.0,HAEM,Section 4,SC86,General Lab Clinical Chemistry,1.0,2007-02-27 09:00:00,0.0,2.0,1.0,9.0,30931200.0,0.0,3
+119060,maligniteit cervix,TC1101,M13,SC61,DTC689148,72.0,910_3,AC370604,BLOB,Section 4,SC86,General Lab Clinical Chemistry,1.0,2007-02-27 09:00:00,0.0,2.0,1.0,9.0,30931200.0,0.0,3
+119659,Maligne nieuwvormingen ovarium (nno),TC103,M16,SC7,DTC674051,64.0,911_3,AC370403,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2007-02-28 09:00:00,0.0,2.0,2.0,9.0,518400.0,0.0,3
+119660,Maligne nieuwvormingen ovarium (nno),TC103,M16,SC7,DTC674051,64.0,911_3,370488G,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2007-02-28 09:00:00,0.0,2.0,2.0,9.0,518400.0,0.0,3
+119661,Maligne nieuwvormingen ovarium (nno),TC103,M16,SC7,DTC674051,64.0,911_3,370488E,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2007-02-28 09:00:00,0.0,2.0,2.0,9.0,518400.0,0.0,3
+100774,maligniteit endometrium,TC61,DC106,SC61,other,45.0,808_3,AC411100,SRTH,Section 5,SC61,Radiotherapy,1.0,2007-03-08 09:00:00,0.0,3.0,3.0,9.0,0.0,16416000.0,3
+76747,maligniteit cervix,TC101,M13,SC7,other,38.0,611_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2007-03-15 09:00:00,0.0,3.0,3.0,9.0,0.0,33264000.0,3
+82200,maligniteit myometrium,TC101,M15,SC7,other,63.0,652_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2007-03-28 09:00:00,0.0,3.0,2.0,9.0,0.0,32054400.0,3
+82201,maligniteit myometrium,TC101,M15,SC7,other,63.0,652_3,AC419100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2007-03-28 09:00:00,534240.0,3.0,2.0,9.0,0.0,32054400.0,3
+76751,maligniteit cervix,TC101,M13,SC7,other,42.0,612_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2007-03-29 09:00:00,0.0,3.0,3.0,9.0,0.0,34473600.0,3
+73892,maligniteit vulva,TC101,M11,SC7,other,81.0,583_3,AC411100,SGNA,Section 2,SC7,Obstetrics & Gynaecology clinic,1.0,2007-04-11 09:00:00,0.0,4.0,2.0,9.0,0.0,37497600.0,3
+91017,Gynaecologische tumoren,TC61,DC106,SC7,DTC495023,53.0,736_3,AC370000,CRLA,Section 4,SC86,General Lab Clinical Chemistry,1.0,2007-06-11 09:00:00,0.0,6.0,0.0,9.0,259200.0,31449600.0,3
+11966,Recidieven (pre)maligniteit cervix uteri (ov),TC103,M13,SC13,DTC392290,45.0,76_3,370488G,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2007-12-18 09:00:00,0.0,12.0,1.0,9.0,3974400.0,88992000.0,3
+11967,Recidieven (pre)maligniteit cervix uteri (ov),TC103,M13,SC13,DTC392290,45.0,76_3,AC370403,CHE2,Section 4,SC86,General Lab Clinical Chemistry,1.0,2007-12-18 09:00:00,0.0,12.0,1.0,9.0,3974400.0,88992000.0,3
